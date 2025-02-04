@@ -1,0 +1,1001 @@
+Date,Time,Booking ID,Booking Status,Customer ID,Vehicle Type,Pickup Location,Drop Location,Avg VTAT,Avg CTAT,Cancelled Rides by Customer,Reason for cancelling by Customer,Cancelled Rides by Driver,Reason for cancelling by Driver,Incomplete Rides,Incomplete Rides Reason,Booking Value,Ride Distance,Driver Ratings,Customer Rating
+2025-02-03,19:56:00,BK906286,Cancelled,C6013,Prime Plus,Kengeri,Malleshwaram,,,1,Driver is not moving towards pickup location,1,Customer related issue,1,Customer Demand,,,,
+2025-03-02,14:39:00,BK524462,Cancelled,C7550,Auto,Sahakaranagar,Rajajinagar,,,1,Driver asked to cancel,1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-02-06,11:54:00,BK884406,Success,C6893,eBike,Peenya,RT Nagar,4.0,3.0,0,,0,,0,,367.0,40.0,3.8,4.3
+2025-02-28,05:39:00,BK698763,Cancelled,C6320,Mini,Bangalore East,Sanjay Nagar,,,1,Driver asked to cancel,1,Customer related issue,1,Other Issue,,,,
+2025-02-23,08:07:00,BK564270,Cancelled,C8135,Auto,Indiranagar,MG Road,,,1,Change of plans,1,The customer was coughing/sick,1,Other Issue,,,,
+2025-02-18,14:45:00,BK141775,Cancelled,C7429,eBike,RT Nagar,Bangalore East,,,1,Driver is not moving towards pickup location,1,Customer related issue,1,Vehicle Breakdown,,,,
+2025-02-18,19:57:00,BK651178,Cancelled,C7554,Auto,Banashankari,Singasandra,,,1,Driver asked to cancel,1,More than permitted people in there,1,Customer Demand,,,,
+2025-02-09,12:38:00,BK360368,Success,C9846,Mini,KR Puram,Whitefield,9.0,10.0,0,,0,,0,,153.0,15.0,3.6,4.8
+2025-02-03,01:19:00,BK876433,Success,C8020,Mini,Yelahanka,Rajajinagar,5.0,10.0,0,,0,,0,,159.0,46.0,4.8,3.6
+2025-02-24,06:38:00,BK381171,Cancelled,C4382,Prime Sedan,MG Road,Bengaluru East,,,1,AC is not working (Only for 4-wheelers),1,The customer was coughing/sick,1,Customer Demand,,,,
+2025-02-23,14:10:00,BK911551,Cancelled,C1630,Prime Plus,Ulsoor,Yeshwanthpur,,,1,Wrong Address,1,The customer was coughing/sick,1,Customer Demand,,,,
+2025-02-14,13:10:00,BK158469,Cancelled,C5347,eBike,Ulsoor,Sree Chowdeshwari Nagar,,,1,Driver asked to cancel,1,Personal & Car related issues,1,Customer Demand,,,,
+2025-02-01,06:05:00,BK239778,Success,C3568,Prime Sedan,Rajajinagar,Kormangala 1st Block,10.0,11.0,0,,0,,0,,494.0,42.0,4.6,3.7
+2025-02-12,18:53:00,BK507715,Success,C3810,Bike,MG Road,Yelahanka New Town,9.0,10.0,0,,0,,0,,467.0,13.0,4.2,4.2
+2025-02-02,10:55:00,BK672316,Success,C7537,eBike,Vijayanagar,RT Nagar,8.0,8.0,0,,0,,0,,160.0,35.0,4.3,3.9
+2025-02-10,13:23:00,BK150966,Cancelled,C5144,Prime Sedan,Kudlu,Chandapura,,,1,Wrong Address,1,More than permitted people in there,1,Other Issue,,,,
+2025-02-02,12:45:00,BK100198,Cancelled,C8067,Auto,Yelahanka,CV Raman Nagar,,,1,Driver is not moving towards pickup location,1,Personal & Car related issues,1,Other Issue,,,,
+2025-02-13,15:53:00,BK362256,Success,C8444,Prime Sedan,MG Road,Yeshwanthpur,6.0,3.0,0,,0,,0,,451.0,24.0,4.1,4.4
+2025-02-02,00:06:00,BK734121,Success,C7639,Prime SUV,Bannergatta,Jakkur,4.0,8.0,0,,0,,0,,158.0,18.0,4.9,4.6
+2025-02-04,00:27:00,BK339764,Success,C4651,Prime SUV,Sanjay Nagar,Sahakaranagar,7.0,12.0,0,,0,,0,,194.0,21.0,4.1,5.0
+2025-02-24,15:13:00,BK613973,Success,C3607,Prime SUV,Vasanth Nagar,Rajagopal Nagar,4.0,11.0,0,,0,,0,,292.0,35.0,3.7,4.4
+2025-02-06,02:06:00,BK714928,Success,C7763,Prime Plus,Indiranagar,Banashankari,7.0,3.0,0,,0,,0,,342.0,24.0,4.7,4.8
+2025-02-05,14:09:00,BK242249,Success,C4525,eBike,Kudlu,Shivajinagar,3.0,4.0,0,,0,,0,,486.0,33.0,5.0,3.8
+2025-02-04,07:55:00,BK439160,Success,C8853,Prime SUV,Ramanagara,Bangalore East,5.0,7.0,0,,0,,0,,381.0,34.0,4.2,4.7
+2025-02-08,19:16:00,BK901839,Success,C2342,Auto,Yelahanka New Town,KR Puram,8.0,11.0,0,,0,,0,,358.0,36.0,5.0,4.9
+2025-02-08,16:24:00,BK665635,Cancelled,C1979,Mini,Peenya,Whitefield,,,1,Driver is not moving towards pickup location,1,Customer related issue,1,Vehicle Breakdown,,,,
+2025-02-23,09:08:00,BK834573,Cancelled,C4234,Prime SUV,HSR Layout,Kengeri,,,1,Change of plans,1,More than permitted people in there,1,Vehicle Breakdown,,,,
+2025-02-16,09:13:00,BK499165,Success,C9030,Auto,Rajajinagar,Peenya,11.0,9.0,0,,0,,0,,90.0,21.0,4.2,5.0
+2025-03-01,10:47:00,BK196592,Success,C3403,Prime Sedan,CV Raman Nagar,MG Road,9.0,11.0,0,,0,,0,,237.0,38.0,3.7,4.9
+2025-03-01,06:10:00,BK282340,Success,C5184,eBike,Bangalore Palace,Raghavendra Colony,4.0,3.0,0,,0,,0,,51.0,50.0,4.4,3.9
+2025-02-27,16:39:00,BK233649,Cancelled,C7902,Prime SUV,Yeshwanthpur,Kormangala 1st Block,,,1,Driver is not moving towards pickup location,1,Personal & Car related issues,1,Customer Demand,,,,
+2025-02-13,01:25:00,BK886462,Success,C7030,Prime SUV,Rajagopal Nagar,Bellandur,3.0,5.0,0,,0,,0,,466.0,41.0,4.2,3.8
+2025-03-01,12:15:00,BK117113,Success,C6399,Prime SUV,Jayanagar,Sree Chowdeshwari Nagar,12.0,3.0,0,,0,,0,,181.0,47.0,4.0,3.5
+2025-02-20,05:15:00,BK273074,Success,C3682,Prime Plus,Jalahalli,Chikkajala,11.0,6.0,0,,0,,0,,466.0,5.0,4.8,3.7
+2025-02-28,21:13:00,BK611447,Cancelled,C3871,eBike,MG Road,Doddaballapur,,,1,Driver is not moving towards pickup location,1,More than permitted people in there,1,Other Issue,,,,
+2025-02-13,09:16:00,BK935821,Cancelled,C1655,Prime Plus,Indiranagar,MG Road,,,1,AC is not working (Only for 4-wheelers),1,Personal & Car related issues,1,Other Issue,,,,
+2025-02-04,22:55:00,BK952561,Cancelled,C8144,Prime SUV,RT Nagar,Bannergatta,,,1,Driver asked to cancel,1,More than permitted people in there,1,Customer Demand,,,,
+2025-03-02,07:29:00,BK795763,Cancelled,C5367,Prime Plus,Yelahanka New Town,Jalahalli,,,1,Wrong Address,1,The customer was coughing/sick,1,Customer Demand,,,,
+2025-02-19,01:19:00,BK738886,Cancelled,C8631,Prime SUV,RT Nagar,Bangalore University,,,1,Driver is not moving towards pickup location,1,The customer was coughing/sick,1,Other Issue,,,,
+2025-02-07,15:38:00,BK643516,Success,C4992,Prime SUV,Koramangala,Malleshwaram,6.0,8.0,0,,0,,0,,473.0,27.0,4.2,4.8
+2025-02-04,06:22:00,BK842897,Cancelled,C3395,Mini,CV Raman Nagar,Bellandur,,,1,AC is not working (Only for 4-wheelers),1,Personal & Car related issues,1,Customer Demand,,,,
+2025-02-04,20:55:00,BK765427,Success,C8773,Bike,RT Nagar,Banaswadi,3.0,6.0,0,,0,,0,,475.0,32.0,4.4,4.8
+2025-02-06,01:25:00,BK609733,Success,C6193,Prime Plus,Frazer Town,Yelahanka,9.0,11.0,0,,0,,0,,364.0,26.0,4.4,4.0
+2025-02-26,12:33:00,BK760405,Cancelled,C3633,Prime SUV,Ramanagara,MG Road,,,1,Change of plans,1,Customer related issue,1,Customer Demand,,,,
+2025-02-23,20:43:00,BK638089,Cancelled,C6760,Prime SUV,Sahakaranagar,Doddaballapur,,,1,Driver is not moving towards pickup location,1,The customer was coughing/sick,1,Vehicle Breakdown,,,,
+2025-02-17,05:07:00,BK758614,Cancelled,C8663,Bike,Kammanahalli,MG Road,,,1,Driver asked to cancel,1,More than permitted people in there,1,Vehicle Breakdown,,,,
+2025-02-22,11:21:00,BK593965,Success,C8602,Prime Sedan,Rajagopal Nagar,Yeshwanthpur,11.0,4.0,0,,0,,0,,412.0,44.0,3.9,3.8
+2025-03-02,01:00:00,BK908470,Success,C6989,Prime Plus,RT Nagar,Bangalore University,6.0,9.0,0,,0,,0,,81.0,13.0,4.6,3.7
+2025-02-24,16:39:00,BK393616,Success,C4868,Bike,Sree Chowdeshwari Nagar,Rajajinagar,4.0,3.0,0,,0,,0,,172.0,47.0,3.9,4.4
+2025-02-21,18:11:00,BK784950,Success,C5953,eBike,Bangalore University,Bellandur,6.0,6.0,0,,0,,0,,141.0,31.0,5.0,3.8
+2025-02-26,20:54:00,BK535489,Success,C4647,Bike,Kudlu,Ramanagara,9.0,4.0,0,,0,,0,,138.0,22.0,4.9,4.3
+2025-02-08,14:02:00,BK334954,Cancelled,C9257,Mini,Kammanahalli,Kasavanahalli,,,1,Wrong Address,1,More than permitted people in there,1,Customer Demand,,,,
+2025-02-18,10:53:00,BK973339,Cancelled,C8728,Prime Sedan,MG Road,Raghavendra Colony,,,1,Change of plans,1,More than permitted people in there,1,Vehicle Breakdown,,,,
+2025-02-01,00:54:00,BK963126,Cancelled,C7509,eBike,Sree Chowdeshwari Nagar,Malleshwaram,,,1,Change of plans,1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-02-19,05:06:00,BK870534,Success,C9228,Prime SUV,Kudlu,Sarakki,10.0,11.0,0,,0,,0,,415.0,21.0,4.6,4.3
+2025-02-27,18:41:00,BK926715,Success,C5434,Prime Plus,Kudlu,Okalipuram,7.0,8.0,0,,0,,0,,318.0,22.0,4.9,4.4
+2025-02-04,19:09:00,BK680635,Cancelled,C1671,Prime SUV,KR Puram,Chandapura,,,1,Change of plans,1,The customer was coughing/sick,1,Vehicle Breakdown,,,,
+2025-02-16,23:23:00,BK307574,Success,C3827,Prime SUV,Bannergatta,Kasavanahalli,6.0,10.0,0,,0,,0,,396.0,32.0,4.6,4.3
+2025-02-09,22:37:00,BK363310,Success,C9332,Bike,Kundalahalli,Bellandur,6.0,9.0,0,,0,,0,,369.0,13.0,4.3,4.9
+2025-02-10,18:45:00,BK466081,Success,C6503,Prime Plus,Doddaballapur,Chandapura,6.0,5.0,0,,0,,0,,280.0,31.0,4.5,4.9
+2025-03-02,18:06:00,BK749198,Success,C1791,Prime Plus,Frazer Town,Shivajinagar,9.0,12.0,0,,0,,0,,124.0,31.0,4.3,4.0
+2025-02-13,08:40:00,BK517418,Cancelled,C5641,Mini,Sarakki,Bannergatta,,,1,Wrong Address,1,Customer related issue,1,Vehicle Breakdown,,,,
+2025-02-24,00:22:00,BK166765,Cancelled,C8417,Bike,MG Road,Ramanagara,,,1,Driver is not moving towards pickup location,1,Customer related issue,1,Customer Demand,,,,
+2025-02-08,16:38:00,BK495637,Success,C4935,eBike,Kammanahalli,Bangalore Palace,8.0,6.0,0,,0,,0,,365.0,26.0,4.3,4.1
+2025-02-02,06:37:00,BK639760,Cancelled,C2287,eBike,Whitefield,Kormangala 1st Block,,,1,Driver is not moving towards pickup location,1,Customer related issue,1,Vehicle Breakdown,,,,
+2025-02-03,23:27:00,BK629463,Cancelled,C4504,Auto,Indiranagar,Rajajinagar,,,1,AC is not working (Only for 4-wheelers),1,Customer related issue,1,Other Issue,,,,
+2025-02-18,00:49:00,BK873900,Success,C6288,Prime Sedan,RT Nagar,Yelahanka New Town,6.0,4.0,0,,0,,0,,56.0,29.0,3.5,4.9
+2025-02-21,04:41:00,BK133081,Cancelled,C3981,Prime Plus,Koramangala,Kasavanahalli,,,1,AC is not working (Only for 4-wheelers),1,The customer was coughing/sick,1,Vehicle Breakdown,,,,
+2025-02-12,23:15:00,BK427664,Success,C9976,Prime SUV,RT Nagar,Bangalore University,8.0,6.0,0,,0,,0,,184.0,34.0,4.6,4.2
+2025-02-02,06:45:00,BK769732,Cancelled,C7783,Prime Plus,Bengaluru East,Indiranagar,,,1,Change of plans,1,More than permitted people in there,1,Vehicle Breakdown,,,,
+2025-02-10,20:25:00,BK246194,Success,C4776,eBike,Sarakki,Sree Chowdeshwari Nagar,5.0,8.0,0,,0,,0,,359.0,11.0,3.9,4.4
+2025-02-18,11:51:00,BK687355,Cancelled,C4386,Bike,Jalahalli,Bommanahalli,,,1,Driver asked to cancel,1,More than permitted people in there,1,Vehicle Breakdown,,,,
+2025-03-01,01:15:00,BK670378,Success,C3890,Mini,Raghavendra Colony,Sarakki,10.0,4.0,0,,0,,0,,357.0,33.0,4.4,4.2
+2025-02-01,20:49:00,BK192980,Cancelled,C7068,Auto,Jayanagar,Chikkajala,,,1,Driver asked to cancel,1,The customer was coughing/sick,1,Customer Demand,,,,
+2025-02-24,07:51:00,BK315678,Success,C1133,Prime Plus,Bangalore East,Rajagopal Nagar,10.0,10.0,0,,0,,0,,403.0,15.0,3.7,3.8
+2025-02-18,11:48:00,BK150042,Cancelled,C5924,Prime SUV,Marathahalli,Malleshwaram,,,1,Wrong Address,1,The customer was coughing/sick,1,Other Issue,,,,
+2025-02-08,07:15:00,BK270637,Success,C9869,Prime SUV,Kengeri,Doddaballapur,5.0,6.0,0,,0,,0,,440.0,6.0,4.1,3.8
+2025-02-07,16:38:00,BK870362,Success,C2773,Prime Plus,Indiranagar,Hebbal,12.0,6.0,0,,0,,0,,279.0,24.0,4.3,3.8
+2025-02-07,05:58:00,BK546091,Success,C2710,Prime Sedan,Kasavanahalli,RT Nagar,7.0,6.0,0,,0,,0,,141.0,34.0,4.3,4.7
+2025-02-12,21:06:00,BK317654,Cancelled,C6966,Bike,Bellandur,MG Road,,,1,Change of plans,1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-02-09,01:40:00,BK796233,Cancelled,C4240,Prime SUV,Kudlu,Singasandra,,,1,Change of plans,1,More than permitted people in there,1,Other Issue,,,,
+2025-02-11,22:35:00,BK712750,Success,C5544,Prime Plus,Chandapura,Bengaluru East,8.0,10.0,0,,0,,0,,360.0,35.0,4.4,3.9
+2025-02-23,15:56:00,BK942963,Cancelled,C2877,Prime SUV,Chikkajala,MG Road,,,1,AC is not working (Only for 4-wheelers),1,The customer was coughing/sick,1,Customer Demand,,,,
+2025-02-27,00:12:00,BK474321,Success,C9960,Prime Sedan,Shivajinagar,Banashankari,8.0,3.0,0,,0,,0,,404.0,27.0,4.9,4.5
+2025-02-23,01:14:00,BK924103,Success,C2464,Prime Sedan,Bannergatta,Bangalore University,9.0,9.0,0,,0,,0,,178.0,11.0,3.8,4.1
+2025-02-13,00:14:00,BK856093,Cancelled,C8165,Prime SUV,HSR Layout,Yelahanka,,,1,Wrong Address,1,The customer was coughing/sick,1,Vehicle Breakdown,,,,
+2025-02-15,10:34:00,BK147397,Success,C4764,Prime Plus,Bangalore East,Kasavanahalli,4.0,5.0,0,,0,,0,,479.0,37.0,3.7,4.9
+2025-02-17,06:09:00,BK739500,Success,C5333,Auto,Bannergatta,Kudlu,6.0,3.0,0,,0,,0,,295.0,13.0,4.5,3.8
+2025-02-23,09:26:00,BK649158,Success,C4133,Mini,Shivajinagar,Bannergatta,5.0,9.0,0,,0,,0,,320.0,32.0,4.9,4.0
+2025-02-15,22:59:00,BK952514,Success,C6741,Mini,Malleshwaram,Okalipuram,12.0,11.0,0,,0,,0,,345.0,35.0,3.9,4.2
+2025-02-16,02:39:00,BK136819,Success,C3724,Prime Sedan,Kammanahalli,CV Raman Nagar,9.0,5.0,0,,0,,0,,374.0,17.0,4.5,4.3
+2025-02-19,13:11:00,BK667277,Cancelled,C2783,Prime SUV,Vijayanagar,Kormangala 1st Block,,,1,Change of plans,1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-02-27,19:24:00,BK301796,Cancelled,C3092,Auto,Whitefield,Singasandra,,,1,Wrong Address,1,Customer related issue,1,Other Issue,,,,
+2025-02-06,02:07:00,BK621315,Success,C2624,Auto,Chandapura,Yelahanka New Town,11.0,8.0,0,,0,,0,,186.0,40.0,3.7,3.6
+2025-02-03,04:02:00,BK269225,Cancelled,C5135,eBike,Banashankari,Bannergatta,,,1,Wrong Address,1,The customer was coughing/sick,1,Vehicle Breakdown,,,,
+2025-02-24,18:24:00,BK798197,Success,C9300,eBike,Basavanagudi,MG Road,6.0,5.0,0,,0,,0,,245.0,24.0,4.3,4.7
+2025-02-18,19:55:00,BK745081,Cancelled,C5530,Prime Sedan,MG Road,Kudlu,,,1,Driver is not moving towards pickup location,1,Customer related issue,1,Customer Demand,,,,
+2025-02-28,22:59:00,BK820221,Success,C2622,Prime Plus,Bengaluru East,MG Road,6.0,12.0,0,,0,,0,,166.0,41.0,4.1,4.4
+2025-02-16,21:22:00,BK180465,Cancelled,C1603,Prime Plus,Bangalore University,Shivajinagar,,,1,Driver is not moving towards pickup location,1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-02-04,09:08:00,BK666841,Cancelled,C3268,eBike,Bangalore East,Kammanahalli,,,1,Change of plans,1,The customer was coughing/sick,1,Customer Demand,,,,
+2025-02-14,00:23:00,BK317207,Success,C8006,eBike,Bangalore Palace,Doddaballapur,10.0,8.0,0,,0,,0,,54.0,47.0,4.0,3.8
+2025-02-13,08:39:00,BK543212,Success,C9865,Auto,Bommanahalli,Ramanagara,6.0,9.0,0,,0,,0,,73.0,38.0,4.0,4.4
+2025-02-22,15:48:00,BK314890,Success,C5647,Auto,KR Puram,Jakkur,7.0,12.0,0,,0,,0,,222.0,14.0,4.4,4.5
+2025-03-02,05:00:00,BK328691,Success,C3632,Mini,Bangalore East,Ramanagara,11.0,5.0,0,,0,,0,,202.0,6.0,3.9,3.6
+2025-02-09,02:48:00,BK804218,Success,C1806,Bike,RT Nagar,Raghavendra Colony,6.0,5.0,0,,0,,0,,59.0,6.0,3.9,4.6
+2025-02-06,00:55:00,BK139809,Cancelled,C9065,Bike,Frazer Town,Marathahalli,,,1,Wrong Address,1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-02-17,13:29:00,BK467833,Success,C7803,Bike,Kormangala 1st Block,Ramanagara,8.0,4.0,0,,0,,0,,408.0,9.0,3.5,4.5
+2025-02-09,16:49:00,BK582292,Success,C4858,Auto,Kasavanahalli,Indiranagar,9.0,11.0,0,,0,,0,,195.0,50.0,3.6,3.7
+2025-02-11,15:14:00,BK799959,Success,C8995,Auto,Jakkur,Sahakaranagar,12.0,4.0,0,,0,,0,,324.0,7.0,5.0,4.0
+2025-02-24,06:46:00,BK386738,Success,C3070,Auto,Bannergatta,Doddaballapur,6.0,7.0,0,,0,,0,,305.0,50.0,4.3,4.9
+2025-02-09,17:33:00,BK523258,Cancelled,C4430,eBike,Bangalore Palace,Vijayanagar,,,1,Wrong Address,1,The customer was coughing/sick,1,Customer Demand,,,,
+2025-02-18,15:09:00,BK347620,Cancelled,C4218,Bike,Whitefield,Banaswadi,,,1,Driver asked to cancel,1,Personal & Car related issues,1,Customer Demand,,,,
+2025-02-06,11:57:00,BK329435,Cancelled,C3970,Auto,Basavanagudi,Shivajinagar,,,1,Driver is not moving towards pickup location,1,More than permitted people in there,1,Customer Demand,,,,
+2025-02-27,05:32:00,BK314972,Cancelled,C1093,Prime Plus,KR Puram,Bannergatta,,,1,Change of plans,1,The customer was coughing/sick,1,Other Issue,,,,
+2025-02-24,19:04:00,BK492796,Success,C6725,Auto,MG Road,Kudlu,5.0,12.0,0,,0,,0,,131.0,11.0,4.4,4.4
+2025-02-05,09:28:00,BK237066,Success,C6513,Prime Plus,Jalahalli,Basavanagudi,11.0,5.0,0,,0,,0,,414.0,27.0,4.3,3.9
+2025-02-20,00:33:00,BK560780,Cancelled,C3412,Bike,Ulsoor,Sanjay Nagar,,,1,Change of plans,1,More than permitted people in there,1,Customer Demand,,,,
+2025-02-04,09:14:00,BK402017,Cancelled,C2530,Mini,Sarakki,Bangalore East,,,1,Change of plans,1,Personal & Car related issues,1,Other Issue,,,,
+2025-02-22,06:43:00,BK249199,Success,C6000,Prime SUV,Indiranagar,Ramanagara,8.0,12.0,0,,0,,0,,153.0,12.0,3.8,4.4
+2025-02-10,14:07:00,BK523368,Cancelled,C3217,Bike,Hebbal,Bangalore Palace,,,1,AC is not working (Only for 4-wheelers),1,The customer was coughing/sick,1,Vehicle Breakdown,,,,
+2025-02-09,01:59:00,BK847751,Success,C7080,Prime Sedan,Kasavanahalli,Kammanahalli,7.0,9.0,0,,0,,0,,207.0,32.0,3.7,3.8
+2025-03-01,08:22:00,BK988241,Success,C2049,Bike,Bangalore University,Yeshwanthpur,10.0,9.0,0,,0,,0,,371.0,18.0,4.4,4.0
+2025-02-14,07:13:00,BK784896,Cancelled,C5734,Prime Sedan,MG Road,Raghavendra Colony,,,1,AC is not working (Only for 4-wheelers),1,The customer was coughing/sick,1,Customer Demand,,,,
+2025-02-16,13:06:00,BK697041,Cancelled,C9005,Prime Plus,RT Nagar,Kengeri,,,1,Driver asked to cancel,1,More than permitted people in there,1,Customer Demand,,,,
+2025-02-08,00:04:00,BK437241,Success,C2854,Bike,Whitefield,Kundalahalli,10.0,9.0,0,,0,,0,,290.0,23.0,4.5,4.6
+2025-02-16,23:18:00,BK242351,Cancelled,C9464,Prime SUV,Chandapura,Doddaballapur,,,1,Driver is not moving towards pickup location,1,Customer related issue,1,Other Issue,,,,
+2025-02-01,08:17:00,BK965142,Success,C3824,Prime SUV,Singasandra,Sarakki,12.0,7.0,0,,0,,0,,71.0,34.0,4.3,4.4
+2025-02-03,21:23:00,BK684707,Success,C7453,Prime Plus,Chandapura,Bangalore Palace,11.0,4.0,0,,0,,0,,177.0,47.0,4.2,4.2
+2025-02-04,01:37:00,BK665037,Success,C9668,Prime Sedan,Bangalore Palace,Ramanagara,4.0,6.0,0,,0,,0,,258.0,35.0,4.6,4.3
+2025-02-20,15:20:00,BK324808,Success,C6357,Prime SUV,Banaswadi,Bangalore Palace,3.0,11.0,0,,0,,0,,156.0,16.0,4.3,3.6
+2025-02-03,09:54:00,BK549091,Cancelled,C2785,Prime SUV,Vijayanagar,Sarakki,,,1,Change of plans,1,Personal & Car related issues,1,Customer Demand,,,,
+2025-02-23,09:54:00,BK259747,Success,C7568,eBike,Whitefield,Yeshwanthpur,4.0,9.0,0,,0,,0,,433.0,31.0,4.9,4.7
+2025-02-18,22:16:00,BK933506,Success,C1624,Prime SUV,Sahakaranagar,Jayanagar,6.0,4.0,0,,0,,0,,245.0,24.0,4.4,3.6
+2025-02-20,11:51:00,BK342547,Success,C3347,eBike,Jakkur,Bengaluru East,12.0,5.0,0,,0,,0,,350.0,42.0,4.1,4.3
+2025-02-22,16:00:00,BK709825,Cancelled,C1121,Bike,Jayanagar,Raghavendra Colony,,,1,Driver asked to cancel,1,Customer related issue,1,Customer Demand,,,,
+2025-02-17,15:12:00,BK327744,Success,C7030,eBike,Bangalore University,Yelahanka New Town,9.0,10.0,0,,0,,0,,134.0,49.0,4.7,3.9
+2025-02-14,13:32:00,BK808975,Success,C7207,Mini,Singasandra,Bangalore University,9.0,8.0,0,,0,,0,,122.0,24.0,4.4,4.8
+2025-02-01,12:56:00,BK212040,Success,C6040,eBike,Okalipuram,Rajajinagar,5.0,9.0,0,,0,,0,,335.0,10.0,4.9,4.8
+2025-02-01,00:24:00,BK672509,Cancelled,C9849,Auto,Jalahalli,Singasandra,,,1,Change of plans,1,Personal & Car related issues,1,Other Issue,,,,
+2025-02-20,08:12:00,BK679774,Success,C2803,Prime Plus,Whitefield,Bellandur,3.0,7.0,0,,0,,0,,136.0,43.0,4.1,4.8
+2025-02-14,02:37:00,BK426476,Success,C6473,Bike,Chikkajala,Kundalahalli,3.0,6.0,0,,0,,0,,326.0,38.0,3.8,4.8
+2025-02-24,20:52:00,BK140540,Cancelled,C9352,Prime Plus,Sahakaranagar,Rajagopal Nagar,,,1,Driver asked to cancel,1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-02-06,18:07:00,BK483398,Success,C8661,Auto,Marathahalli,Raghavendra Colony,4.0,11.0,0,,0,,0,,476.0,13.0,4.7,4.6
+2025-02-02,02:45:00,BK264172,Cancelled,C7859,Auto,Bangalore East,Banashankari,,,1,Wrong Address,1,The customer was coughing/sick,1,Other Issue,,,,
+2025-02-08,09:04:00,BK183846,Success,C4898,eBike,Koramangala,Raghavendra Colony,10.0,9.0,0,,0,,0,,78.0,41.0,3.8,4.7
+2025-02-11,07:11:00,BK844617,Success,C9898,Prime Sedan,Kundalahalli,Yeshwanthpur,3.0,12.0,0,,0,,0,,462.0,21.0,4.3,4.0
+2025-02-08,06:27:00,BK715588,Cancelled,C4531,Prime Plus,Chandapura,MG Road,,,1,Driver is not moving towards pickup location,1,Personal & Car related issues,1,Customer Demand,,,,
+2025-02-01,14:01:00,BK142218,Cancelled,C5363,Prime Sedan,Raghavendra Colony,Banashankari,,,1,Driver is not moving towards pickup location,1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-02-09,12:21:00,BK518831,Success,C7114,Mini,Vasanth Nagar,CV Raman Nagar,11.0,9.0,0,,0,,0,,372.0,13.0,4.9,4.2
+2025-02-16,10:35:00,BK118854,Cancelled,C9140,Mini,CV Raman Nagar,Sanjay Nagar,,,1,Wrong Address,1,The customer was coughing/sick,1,Other Issue,,,,
+2025-02-16,20:42:00,BK376359,Success,C6757,Prime SUV,MG Road,Malleshwaram,12.0,12.0,0,,0,,0,,243.0,44.0,4.9,4.8
+2025-02-09,19:46:00,BK889385,Success,C1529,eBike,Bangalore East,MG Road,5.0,11.0,0,,0,,0,,456.0,18.0,4.7,4.5
+2025-02-18,16:05:00,BK665060,Cancelled,C2604,Prime SUV,Bengaluru East,MG Road,,,1,Wrong Address,1,Personal & Car related issues,1,Other Issue,,,,
+2025-03-02,16:35:00,BK497849,Success,C3314,Bike,Rajagopal Nagar,Kammanahalli,9.0,8.0,0,,0,,0,,493.0,36.0,4.9,3.8
+2025-02-06,21:50:00,BK292050,Success,C7267,Prime SUV,Bangalore East,Peenya,3.0,5.0,0,,0,,0,,413.0,9.0,4.6,4.1
+2025-02-24,01:35:00,BK916009,Success,C6568,Prime Sedan,Sree Chowdeshwari Nagar,Ulsoor,6.0,9.0,0,,0,,0,,76.0,34.0,4.1,3.6
+2025-02-27,03:37:00,BK181100,Success,C6527,Prime SUV,Hebbal,Sarakki,9.0,11.0,0,,0,,0,,193.0,15.0,5.0,4.8
+2025-02-24,20:51:00,BK174492,Success,C8759,eBike,Okalipuram,MG Road,12.0,3.0,0,,0,,0,,54.0,37.0,3.8,3.7
+2025-02-15,02:15:00,BK390525,Success,C7452,Prime SUV,Kengeri,Bangalore Palace,11.0,10.0,0,,0,,0,,63.0,27.0,4.1,3.6
+2025-02-07,03:27:00,BK666433,Cancelled,C4976,Prime Plus,Sarakki,Jakkur,,,1,Driver is not moving towards pickup location,1,More than permitted people in there,1,Vehicle Breakdown,,,,
+2025-02-22,14:00:00,BK312564,Success,C9398,Prime SUV,Vijayanagar,HSR Layout,9.0,9.0,0,,0,,0,,297.0,18.0,4.1,4.9
+2025-02-11,22:24:00,BK364814,Cancelled,C1207,Prime Plus,Kammanahalli,Chandapura,,,1,AC is not working (Only for 4-wheelers),1,The customer was coughing/sick,1,Customer Demand,,,,
+2025-02-28,21:31:00,BK190170,Cancelled,C3539,Prime Plus,Basavanagudi,Kudlu,,,1,AC is not working (Only for 4-wheelers),1,More than permitted people in there,1,Other Issue,,,,
+2025-02-23,03:01:00,BK547161,Cancelled,C2522,Prime Plus,MG Road,Rajajinagar,,,1,Wrong Address,1,More than permitted people in there,1,Other Issue,,,,
+2025-02-12,07:32:00,BK474067,Success,C8170,Bike,Bangalore East,Kudlu,3.0,12.0,0,,0,,0,,426.0,49.0,4.0,4.1
+2025-02-08,20:39:00,BK766123,Success,C3897,Bike,Rajajinagar,Frazer Town,5.0,5.0,0,,0,,0,,273.0,38.0,4.6,4.4
+2025-02-25,09:39:00,BK286204,Success,C8316,Prime Plus,Kundalahalli,Sree Chowdeshwari Nagar,5.0,5.0,0,,0,,0,,227.0,25.0,3.6,4.3
+2025-02-26,14:43:00,BK618823,Cancelled,C1496,eBike,Vasanth Nagar,Bellandur,,,1,Change of plans,1,Customer related issue,1,Other Issue,,,,
+2025-02-21,15:08:00,BK720082,Cancelled,C9704,Prime Plus,Sarakki,Kormangala 1st Block,,,1,AC is not working (Only for 4-wheelers),1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-03-02,13:01:00,BK415565,Cancelled,C8000,Auto,Marathahalli,Chikkajala,,,1,Driver asked to cancel,1,Customer related issue,1,Customer Demand,,,,
+2025-02-25,04:13:00,BK234610,Success,C8195,Prime SUV,Kudlu,Yelahanka,8.0,6.0,0,,0,,0,,451.0,30.0,3.5,3.6
+2025-02-23,10:51:00,BK799417,Success,C6296,Auto,Peenya,Ulsoor,3.0,6.0,0,,0,,0,,80.0,6.0,4.1,4.3
+2025-02-11,21:01:00,BK822337,Success,C3546,Prime SUV,Kudlu,Peenya,7.0,12.0,0,,0,,0,,333.0,11.0,4.8,3.6
+2025-02-17,15:19:00,BK513640,Success,C5169,Mini,Hebbal,Yelahanka New Town,11.0,11.0,0,,0,,0,,308.0,30.0,4.0,4.8
+2025-02-01,14:03:00,BK712875,Cancelled,C5710,Prime SUV,Bellandur,Yeshwanthpur,,,1,Wrong Address,1,Personal & Car related issues,1,Customer Demand,,,,
+2025-02-05,00:51:00,BK209173,Success,C3717,Prime Sedan,Kundalahalli,CV Raman Nagar,4.0,5.0,0,,0,,0,,268.0,6.0,4.3,4.9
+2025-02-27,11:54:00,BK190105,Success,C5295,Mini,Bangalore University,Bommanahalli,3.0,3.0,0,,0,,0,,68.0,13.0,4.7,3.6
+2025-02-14,13:23:00,BK178956,Cancelled,C2106,Bike,Bangalore University,Kormangala 1st Block,,,1,AC is not working (Only for 4-wheelers),1,The customer was coughing/sick,1,Other Issue,,,,
+2025-02-23,00:37:00,BK893109,Success,C4549,eBike,Kudlu,Chikkajala,5.0,8.0,0,,0,,0,,247.0,38.0,4.7,4.6
+2025-02-01,01:00:00,BK860198,Success,C6902,Prime SUV,Sanjay Nagar,Sarakki,5.0,3.0,0,,0,,0,,387.0,27.0,4.7,4.3
+2025-02-27,11:50:00,BK832855,Success,C6107,Auto,Chikkajala,Shivajinagar,8.0,7.0,0,,0,,0,,340.0,39.0,3.7,4.2
+2025-02-15,18:46:00,BK589247,Cancelled,C7124,Prime Sedan,Sahakaranagar,Banaswadi,,,1,Change of plans,1,More than permitted people in there,1,Customer Demand,,,,
+2025-02-17,10:40:00,BK719773,Cancelled,C9468,Mini,Kasavanahalli,Vasanth Nagar,,,1,Wrong Address,1,More than permitted people in there,1,Vehicle Breakdown,,,,
+2025-02-15,06:22:00,BK153824,Cancelled,C8089,Bike,Bommanahalli,Basavanagudi,,,1,Wrong Address,1,Personal & Car related issues,1,Customer Demand,,,,
+2025-02-23,12:00:00,BK119008,Success,C6725,Prime SUV,Rajajinagar,CV Raman Nagar,6.0,9.0,0,,0,,0,,428.0,16.0,4.8,4.7
+2025-02-24,16:11:00,BK539368,Cancelled,C9287,Mini,Peenya,RT Nagar,,,1,AC is not working (Only for 4-wheelers),1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-02-23,18:31:00,BK657966,Cancelled,C7685,Bike,Doddaballapur,Bommanahalli,,,1,AC is not working (Only for 4-wheelers),1,The customer was coughing/sick,1,Customer Demand,,,,
+2025-02-10,16:56:00,BK318524,Success,C7670,Auto,Rajajinagar,Frazer Town,10.0,5.0,0,,0,,0,,373.0,31.0,4.9,3.7
+2025-02-06,01:42:00,BK448420,Cancelled,C9455,Prime SUV,Bannergatta,Basavanagudi,,,1,Driver is not moving towards pickup location,1,Personal & Car related issues,1,Other Issue,,,,
+2025-02-28,05:40:00,BK645292,Success,C2202,Prime SUV,Bangalore Palace,Singasandra,11.0,8.0,0,,0,,0,,356.0,10.0,4.8,4.7
+2025-02-13,22:25:00,BK227008,Cancelled,C9137,Bike,MG Road,Singasandra,,,1,Driver is not moving towards pickup location,1,More than permitted people in there,1,Other Issue,,,,
+2025-02-15,14:53:00,BK152014,Cancelled,C2789,Prime Plus,Jalahalli,Kudlu,,,1,Change of plans,1,Personal & Car related issues,1,Other Issue,,,,
+2025-02-19,21:30:00,BK175896,Cancelled,C4130,Mini,Marathahalli,Bellandur,,,1,Driver is not moving towards pickup location,1,Customer related issue,1,Customer Demand,,,,
+2025-02-24,06:54:00,BK391989,Cancelled,C4805,Mini,Bangalore Palace,Chandapura,,,1,Wrong Address,1,The customer was coughing/sick,1,Customer Demand,,,,
+2025-02-08,20:25:00,BK492382,Success,C6350,eBike,Kundalahalli,Kormangala 1st Block,9.0,5.0,0,,0,,0,,138.0,42.0,4.7,4.6
+2025-02-06,15:28:00,BK655078,Success,C2043,Auto,Sree Chowdeshwari Nagar,Rajajinagar,4.0,10.0,0,,0,,0,,147.0,11.0,4.2,4.6
+2025-02-21,08:43:00,BK160190,Cancelled,C4955,eBike,Bengaluru East,Ulsoor,,,1,Change of plans,1,Personal & Car related issues,1,Other Issue,,,,
+2025-02-01,06:42:00,BK991788,Success,C9276,Auto,Sarakki,MG Road,9.0,9.0,0,,0,,0,,312.0,19.0,4.5,3.5
+2025-02-24,10:38:00,BK294438,Success,C9458,Prime Sedan,Sarakki,Yelahanka,10.0,11.0,0,,0,,0,,407.0,37.0,4.5,3.8
+2025-02-21,10:46:00,BK120088,Success,C4332,Bike,Banaswadi,Bellandur,6.0,6.0,0,,0,,0,,293.0,22.0,4.2,4.8
+2025-02-20,03:25:00,BK755824,Success,C6691,Bike,Kormangala 1st Block,Chikkajala,12.0,11.0,0,,0,,0,,380.0,30.0,3.7,3.6
+2025-02-16,18:16:00,BK489510,Success,C4415,Bike,Sanjay Nagar,KR Puram,6.0,4.0,0,,0,,0,,217.0,35.0,3.6,4.0
+2025-02-03,19:59:00,BK688201,Success,C8856,Auto,Bellandur,Rajajinagar,3.0,8.0,0,,0,,0,,195.0,14.0,3.7,4.4
+2025-02-01,00:58:00,BK537492,Success,C8747,Bike,Peenya,Bengaluru East,8.0,3.0,0,,0,,0,,361.0,5.0,3.7,4.3
+2025-02-23,18:46:00,BK868588,Cancelled,C1656,Mini,Singasandra,Ulsoor,,,1,Driver is not moving towards pickup location,1,More than permitted people in there,1,Customer Demand,,,,
+2025-02-13,11:48:00,BK908826,Cancelled,C5240,Prime Plus,Jayanagar,Kammanahalli,,,1,AC is not working (Only for 4-wheelers),1,Personal & Car related issues,1,Customer Demand,,,,
+2025-03-01,12:20:00,BK525784,Success,C1207,Prime Sedan,MG Road,Kundalahalli,6.0,6.0,0,,0,,0,,101.0,12.0,3.7,4.0
+2025-03-01,09:57:00,BK658769,Cancelled,C2107,eBike,Sanjay Nagar,Bangalore University,,,1,Driver is not moving towards pickup location,1,The customer was coughing/sick,1,Vehicle Breakdown,,,,
+2025-02-06,21:29:00,BK286733,Success,C6459,Prime Sedan,Indiranagar,Jakkur,3.0,6.0,0,,0,,0,,340.0,14.0,4.2,4.1
+2025-02-07,18:56:00,BK474718,Success,C1452,Prime Sedan,Frazer Town,Bengaluru East,5.0,4.0,0,,0,,0,,102.0,38.0,5.0,4.5
+2025-02-28,19:48:00,BK170862,Success,C9609,Prime Sedan,Rajajinagar,Vasanth Nagar,8.0,4.0,0,,0,,0,,245.0,47.0,3.9,4.6
+2025-02-10,21:45:00,BK381567,Success,C4610,Prime SUV,Vijayanagar,Rajagopal Nagar,4.0,3.0,0,,0,,0,,246.0,10.0,4.3,4.9
+2025-02-26,15:01:00,BK609037,Success,C8595,Prime SUV,Hebbal,Kasavanahalli,12.0,7.0,0,,0,,0,,380.0,25.0,4.8,4.8
+2025-02-18,07:22:00,BK721069,Success,C1174,Mini,Vasanth Nagar,Bengaluru East,5.0,7.0,0,,0,,0,,58.0,29.0,4.8,4.6
+2025-02-23,11:28:00,BK795062,Success,C4026,Bike,Koramangala,Sarakki,7.0,7.0,0,,0,,0,,312.0,33.0,4.1,3.9
+2025-02-13,16:40:00,BK636930,Cancelled,C1514,Auto,Peenya,MG Road,,,1,Wrong Address,1,Customer related issue,1,Customer Demand,,,,
+2025-02-27,18:10:00,BK429021,Cancelled,C7765,Prime Sedan,Sree Chowdeshwari Nagar,Frazer Town,,,1,AC is not working (Only for 4-wheelers),1,Customer related issue,1,Vehicle Breakdown,,,,
+2025-02-01,14:18:00,BK549767,Success,C7194,Prime SUV,Bannergatta,Kengeri,3.0,3.0,0,,0,,0,,468.0,15.0,4.8,4.2
+2025-02-01,07:03:00,BK479231,Cancelled,C2715,Auto,Whitefield,Vasanth Nagar,,,1,Wrong Address,1,More than permitted people in there,1,Vehicle Breakdown,,,,
+2025-02-01,03:06:00,BK746835,Cancelled,C6579,Mini,Kormangala 1st Block,MG Road,,,1,Wrong Address,1,Personal & Car related issues,1,Other Issue,,,,
+2025-02-25,06:02:00,BK616213,Cancelled,C3732,Prime Sedan,Bangalore East,HSR Layout,,,1,Driver asked to cancel,1,More than permitted people in there,1,Customer Demand,,,,
+2025-02-03,18:09:00,BK107539,Cancelled,C3421,Prime Plus,Peenya,Ramanagara,,,1,AC is not working (Only for 4-wheelers),1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-02-07,02:11:00,BK560954,Success,C4541,Auto,Bangalore East,Peenya,4.0,8.0,0,,0,,0,,205.0,28.0,4.8,4.6
+2025-02-12,10:17:00,BK207400,Success,C6732,Bike,RT Nagar,Bengaluru East,10.0,11.0,0,,0,,0,,147.0,24.0,3.9,4.7
+2025-02-16,00:31:00,BK433595,Cancelled,C2116,eBike,Bangalore East,Chandapura,,,1,Wrong Address,1,The customer was coughing/sick,1,Vehicle Breakdown,,,,
+2025-02-05,22:37:00,BK399160,Success,C7069,Bike,Okalipuram,Jakkur,11.0,4.0,0,,0,,0,,192.0,5.0,4.0,4.9
+2025-02-27,23:09:00,BK337574,Success,C8739,Bike,Bangalore Palace,Bengaluru East,6.0,8.0,0,,0,,0,,390.0,36.0,4.3,4.4
+2025-02-16,20:01:00,BK978757,Cancelled,C9095,Prime Sedan,Kundalahalli,Basavanagudi,,,1,Driver is not moving towards pickup location,1,Customer related issue,1,Other Issue,,,,
+2025-02-25,12:39:00,BK325482,Success,C3522,Prime Sedan,Malleshwaram,Chikkajala,6.0,9.0,0,,0,,0,,148.0,35.0,4.7,4.8
+2025-02-01,09:20:00,BK549651,Success,C2373,Prime Sedan,Hebbal,Basavanagudi,5.0,10.0,0,,0,,0,,298.0,48.0,4.5,4.9
+2025-02-07,02:02:00,BK325514,Cancelled,C6481,eBike,Vasanth Nagar,Koramangala,,,1,Wrong Address,1,Customer related issue,1,Customer Demand,,,,
+2025-02-12,04:31:00,BK389195,Cancelled,C8640,eBike,Banaswadi,Kasavanahalli,,,1,Wrong Address,1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-02-21,16:45:00,BK909302,Success,C2330,Prime Sedan,Jayanagar,Bangalore University,7.0,11.0,0,,0,,0,,295.0,25.0,3.8,4.7
+2025-02-22,22:03:00,BK453684,Cancelled,C3801,Bike,Singasandra,Basavanagudi,,,1,AC is not working (Only for 4-wheelers),1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-02-25,21:13:00,BK274787,Success,C4337,Bike,Vijayanagar,Okalipuram,3.0,8.0,0,,0,,0,,295.0,23.0,4.6,4.0
+2025-02-02,00:32:00,BK131622,Success,C2855,Bike,Malleshwaram,Frazer Town,11.0,8.0,0,,0,,0,,97.0,36.0,3.5,3.6
+2025-02-25,22:17:00,BK352056,Cancelled,C5093,Prime Plus,Ulsoor,Sanjay Nagar,,,1,AC is not working (Only for 4-wheelers),1,More than permitted people in there,1,Vehicle Breakdown,,,,
+2025-02-09,19:16:00,BK187476,Success,C5657,Prime Plus,Sahakaranagar,Chandapura,8.0,10.0,0,,0,,0,,461.0,22.0,4.6,5.0
+2025-02-06,10:46:00,BK893169,Cancelled,C2397,Prime Plus,HSR Layout,Raghavendra Colony,,,1,AC is not working (Only for 4-wheelers),1,Customer related issue,1,Other Issue,,,,
+2025-02-10,07:20:00,BK405158,Success,C7578,Auto,Sarakki,Kammanahalli,11.0,11.0,0,,0,,0,,448.0,46.0,3.6,4.7
+2025-02-19,17:30:00,BK496034,Cancelled,C7232,eBike,Bengaluru East,Bangalore Palace,,,1,Driver asked to cancel,1,Personal & Car related issues,1,Customer Demand,,,,
+2025-02-14,05:10:00,BK264692,Success,C8021,Prime SUV,Sahakaranagar,Kundalahalli,11.0,5.0,0,,0,,0,,203.0,20.0,4.9,4.6
+2025-02-20,14:53:00,BK777415,Success,C9299,Mini,Kormangala 1st Block,Ramanagara,10.0,9.0,0,,0,,0,,442.0,16.0,3.6,4.3
+2025-02-12,03:45:00,BK296548,Success,C8818,Prime Sedan,Sanjay Nagar,CV Raman Nagar,4.0,5.0,0,,0,,0,,178.0,38.0,4.4,3.7
+2025-02-15,04:18:00,BK171247,Success,C8658,Mini,Whitefield,Chikkajala,10.0,9.0,0,,0,,0,,460.0,44.0,3.8,4.3
+2025-02-28,07:57:00,BK849447,Success,C6050,Mini,Yeshwanthpur,Chikkajala,4.0,4.0,0,,0,,0,,95.0,29.0,4.9,3.6
+2025-02-01,12:16:00,BK785818,Success,C2490,Bike,Indiranagar,Okalipuram,12.0,7.0,0,,0,,0,,130.0,23.0,4.7,3.8
+2025-02-22,17:45:00,BK434614,Success,C5417,Prime SUV,CV Raman Nagar,Marathahalli,3.0,8.0,0,,0,,0,,451.0,41.0,4.9,4.4
+2025-02-05,00:53:00,BK498347,Success,C1007,Prime SUV,Bangalore University,MG Road,12.0,6.0,0,,0,,0,,152.0,22.0,3.6,3.9
+2025-02-13,05:52:00,BK807286,Cancelled,C8407,Prime Plus,Yelahanka,Sahakaranagar,,,1,Change of plans,1,Customer related issue,1,Other Issue,,,,
+2025-02-10,08:24:00,BK837924,Cancelled,C1387,Prime SUV,Kasavanahalli,Peenya,,,1,AC is not working (Only for 4-wheelers),1,More than permitted people in there,1,Customer Demand,,,,
+2025-02-27,13:56:00,BK175879,Success,C7049,Auto,Yelahanka New Town,Jayanagar,9.0,10.0,0,,0,,0,,79.0,13.0,3.9,4.5
+2025-02-05,23:33:00,BK373103,Success,C3877,Mini,Peenya,Rajagopal Nagar,7.0,10.0,0,,0,,0,,213.0,34.0,3.6,4.0
+2025-02-19,05:48:00,BK582360,Success,C3428,Bike,KR Puram,Singasandra,11.0,8.0,0,,0,,0,,58.0,29.0,4.0,4.8
+2025-02-16,11:04:00,BK861126,Success,C5946,Prime Sedan,Yelahanka New Town,Vasanth Nagar,4.0,5.0,0,,0,,0,,60.0,38.0,4.2,4.8
+2025-02-12,17:28:00,BK323034,Success,C3613,Prime Plus,Ramanagara,MG Road,3.0,5.0,0,,0,,0,,153.0,33.0,4.9,4.1
+2025-02-19,00:38:00,BK737910,Cancelled,C5230,Mini,Marathahalli,Rajagopal Nagar,,,1,Change of plans,1,More than permitted people in there,1,Vehicle Breakdown,,,,
+2025-02-03,17:38:00,BK151938,Cancelled,C8884,Prime Plus,Jakkur,Chikkajala,,,1,Driver is not moving towards pickup location,1,Personal & Car related issues,1,Other Issue,,,,
+2025-02-28,22:51:00,BK549547,Success,C8300,Prime Plus,Kengeri,Basavanagudi,6.0,12.0,0,,0,,0,,113.0,29.0,4.9,4.6
+2025-02-20,03:53:00,BK945335,Success,C7312,Prime Plus,Jayanagar,Indiranagar,6.0,4.0,0,,0,,0,,384.0,39.0,4.1,3.6
+2025-02-02,03:13:00,BK180815,Success,C8823,Prime Plus,Yeshwanthpur,HSR Layout,9.0,12.0,0,,0,,0,,491.0,43.0,4.1,4.7
+2025-02-25,15:31:00,BK520768,Success,C6697,Prime SUV,Kudlu,Sahakaranagar,6.0,11.0,0,,0,,0,,118.0,40.0,4.8,3.9
+2025-02-11,03:50:00,BK158802,Success,C1017,Auto,Koramangala,Sanjay Nagar,5.0,11.0,0,,0,,0,,200.0,5.0,3.9,3.7
+2025-02-19,00:59:00,BK114968,Success,C5060,Mini,Bengaluru East,Bangalore East,8.0,9.0,0,,0,,0,,300.0,15.0,4.2,4.0
+2025-02-21,14:20:00,BK429851,Success,C2964,Bike,CV Raman Nagar,Bangalore East,5.0,10.0,0,,0,,0,,372.0,7.0,4.3,4.2
+2025-02-24,22:33:00,BK320305,Cancelled,C5486,Auto,Peenya,Jayanagar,,,1,Wrong Address,1,Personal & Car related issues,1,Customer Demand,,,,
+2025-02-24,11:47:00,BK819031,Success,C5561,eBike,MG Road,Ulsoor,4.0,11.0,0,,0,,0,,170.0,33.0,4.1,4.0
+2025-02-23,03:45:00,BK432642,Success,C8593,Mini,Banaswadi,Shivajinagar,10.0,9.0,0,,0,,0,,474.0,48.0,4.1,3.7
+2025-02-09,18:21:00,BK232700,Success,C6387,Prime SUV,HSR Layout,Bengaluru East,10.0,8.0,0,,0,,0,,327.0,48.0,4.6,4.2
+2025-02-16,07:14:00,BK861989,Cancelled,C9569,Prime SUV,Peenya,RT Nagar,,,1,Wrong Address,1,Personal & Car related issues,1,Other Issue,,,,
+2025-02-05,01:01:00,BK959349,Success,C9572,Prime SUV,Shivajinagar,CV Raman Nagar,3.0,5.0,0,,0,,0,,452.0,8.0,4.6,4.0
+2025-02-07,16:26:00,BK418136,Success,C2402,eBike,Whitefield,Chikkajala,3.0,10.0,0,,0,,0,,182.0,49.0,4.2,4.2
+2025-02-11,13:40:00,BK728199,Cancelled,C5063,eBike,Singasandra,Banaswadi,,,1,Wrong Address,1,Customer related issue,1,Vehicle Breakdown,,,,
+2025-02-25,16:56:00,BK696412,Cancelled,C2304,Auto,Malleshwaram,Ulsoor,,,1,Change of plans,1,The customer was coughing/sick,1,Vehicle Breakdown,,,,
+2025-02-24,23:16:00,BK519154,Success,C8871,Prime Plus,Sanjay Nagar,Rajagopal Nagar,7.0,6.0,0,,0,,0,,204.0,8.0,4.5,4.6
+2025-02-07,22:06:00,BK778239,Cancelled,C6700,Bike,Jayanagar,CV Raman Nagar,,,1,Driver asked to cancel,1,The customer was coughing/sick,1,Customer Demand,,,,
+2025-02-09,15:25:00,BK620327,Success,C3769,Mini,Doddaballapur,Indiranagar,7.0,10.0,0,,0,,0,,386.0,43.0,4.3,3.9
+2025-02-02,05:58:00,BK264704,Cancelled,C4178,eBike,Jakkur,Kasavanahalli,,,1,AC is not working (Only for 4-wheelers),1,The customer was coughing/sick,1,Vehicle Breakdown,,,,
+2025-02-07,12:24:00,BK928750,Cancelled,C1715,Prime SUV,Yelahanka,Kasavanahalli,,,1,Driver asked to cancel,1,More than permitted people in there,1,Customer Demand,,,,
+2025-02-05,02:37:00,BK877127,Cancelled,C1514,Prime Sedan,Sree Chowdeshwari Nagar,Bellandur,,,1,Driver asked to cancel,1,More than permitted people in there,1,Other Issue,,,,
+2025-02-25,09:33:00,BK866220,Cancelled,C2340,Auto,Bengaluru East,HSR Layout,,,1,Driver asked to cancel,1,Customer related issue,1,Other Issue,,,,
+2025-02-28,09:00:00,BK320916,Cancelled,C6527,Bike,Koramangala,Vasanth Nagar,,,1,Driver asked to cancel,1,Customer related issue,1,Vehicle Breakdown,,,,
+2025-02-13,22:06:00,BK486158,Success,C5805,Auto,Sanjay Nagar,Hebbal,7.0,3.0,0,,0,,0,,257.0,25.0,3.6,4.6
+2025-02-13,04:28:00,BK652373,Success,C4031,Prime Plus,Bangalore University,Kudlu,7.0,3.0,0,,0,,0,,139.0,44.0,3.9,3.9
+2025-02-27,05:08:00,BK189948,Success,C4231,Prime Sedan,Singasandra,Whitefield,8.0,8.0,0,,0,,0,,190.0,38.0,3.6,3.6
+2025-02-12,09:26:00,BK729861,Success,C9286,Auto,Rajajinagar,MG Road,3.0,3.0,0,,0,,0,,456.0,22.0,3.9,4.1
+2025-02-15,08:11:00,BK678956,Cancelled,C9388,Prime SUV,Kammanahalli,Kudlu,,,1,Driver asked to cancel,1,More than permitted people in there,1,Vehicle Breakdown,,,,
+2025-02-23,18:22:00,BK542993,Success,C1547,Prime Plus,Indiranagar,Sanjay Nagar,4.0,7.0,0,,0,,0,,161.0,35.0,4.1,4.1
+2025-02-08,00:13:00,BK357353,Cancelled,C9584,Auto,MG Road,Sahakaranagar,,,1,Driver asked to cancel,1,More than permitted people in there,1,Other Issue,,,,
+2025-03-02,05:40:00,BK100782,Success,C4937,Prime SUV,Vasanth Nagar,Jakkur,4.0,11.0,0,,0,,0,,241.0,50.0,4.5,4.8
+2025-02-09,12:23:00,BK294495,Success,C1191,Bike,Bommanahalli,Sarakki,12.0,8.0,0,,0,,0,,310.0,43.0,4.4,4.3
+2025-02-09,12:44:00,BK355175,Success,C2494,Mini,Banaswadi,Sarakki,4.0,9.0,0,,0,,0,,124.0,39.0,4.7,3.9
+2025-02-07,03:07:00,BK884469,Cancelled,C9001,Prime Sedan,Frazer Town,Bangalore East,,,1,Wrong Address,1,More than permitted people in there,1,Other Issue,,,,
+2025-02-26,19:44:00,BK375281,Success,C5022,eBike,Jayanagar,Yeshwanthpur,12.0,6.0,0,,0,,0,,219.0,33.0,4.8,4.8
+2025-02-19,10:33:00,BK250752,Cancelled,C3807,eBike,Sree Chowdeshwari Nagar,Jayanagar,,,1,Wrong Address,1,The customer was coughing/sick,1,Customer Demand,,,,
+2025-02-15,09:32:00,BK669580,Success,C9278,eBike,Basavanagudi,Chandapura,5.0,8.0,0,,0,,0,,500.0,22.0,4.1,4.3
+2025-02-04,12:53:00,BK221004,Success,C9579,Auto,Yelahanka New Town,Chandapura,10.0,4.0,0,,0,,0,,160.0,27.0,4.3,4.2
+2025-02-05,09:22:00,BK450543,Success,C6895,Bike,Kudlu,Kasavanahalli,3.0,8.0,0,,0,,0,,291.0,25.0,3.7,4.2
+2025-02-24,22:25:00,BK289686,Cancelled,C6767,Prime Plus,Malleshwaram,Rajajinagar,,,1,AC is not working (Only for 4-wheelers),1,The customer was coughing/sick,1,Customer Demand,,,,
+2025-02-17,02:01:00,BK976621,Cancelled,C1522,Prime Sedan,Basavanagudi,Bengaluru East,,,1,Wrong Address,1,More than permitted people in there,1,Other Issue,,,,
+2025-02-21,11:41:00,BK925609,Success,C4016,Prime SUV,Vasanth Nagar,Basavanagudi,7.0,5.0,0,,0,,0,,455.0,21.0,3.8,3.6
+2025-02-25,22:04:00,BK667205,Cancelled,C3144,Prime SUV,Rajajinagar,Jayanagar,,,1,AC is not working (Only for 4-wheelers),1,The customer was coughing/sick,1,Customer Demand,,,,
+2025-02-24,23:52:00,BK939745,Success,C5930,Bike,Bangalore East,Hebbal,9.0,8.0,0,,0,,0,,460.0,44.0,3.8,4.5
+2025-02-17,07:56:00,BK251733,Cancelled,C8639,eBike,Chandapura,RT Nagar,,,1,Driver asked to cancel,1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-02-27,10:39:00,BK884546,Cancelled,C2657,eBike,HSR Layout,Banaswadi,,,1,Driver asked to cancel,1,Customer related issue,1,Other Issue,,,,
+2025-02-23,20:13:00,BK144953,Success,C3264,Auto,Rajagopal Nagar,Sanjay Nagar,4.0,8.0,0,,0,,0,,78.0,34.0,4.0,3.7
+2025-02-04,03:02:00,BK726679,Success,C3763,Prime Sedan,Chandapura,Raghavendra Colony,6.0,8.0,0,,0,,0,,307.0,8.0,3.9,4.1
+2025-02-15,00:11:00,BK268670,Success,C5542,Prime SUV,Yeshwanthpur,Banashankari,3.0,4.0,0,,0,,0,,105.0,6.0,4.2,4.1
+2025-02-14,08:16:00,BK488471,Cancelled,C6694,Prime Plus,Bangalore University,Jalahalli,,,1,Driver is not moving towards pickup location,1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-02-20,13:27:00,BK917606,Success,C9653,Mini,Bangalore University,Kasavanahalli,10.0,4.0,0,,0,,0,,150.0,20.0,4.1,4.9
+2025-02-11,20:14:00,BK860523,Success,C1705,Prime Sedan,Okalipuram,Bellandur,5.0,6.0,0,,0,,0,,237.0,46.0,4.0,4.3
+2025-02-13,15:07:00,BK964531,Cancelled,C7993,Prime Sedan,Banashankari,Ulsoor,,,1,Wrong Address,1,Customer related issue,1,Other Issue,,,,
+2025-02-18,01:34:00,BK228534,Success,C6425,Prime Sedan,Bangalore East,Kundalahalli,5.0,8.0,0,,0,,0,,388.0,17.0,4.3,5.0
+2025-02-02,12:47:00,BK761606,Success,C6501,Auto,Doddaballapur,Peenya,8.0,12.0,0,,0,,0,,200.0,30.0,3.6,3.9
+2025-02-14,18:00:00,BK738791,Success,C4891,Prime Sedan,Vijayanagar,Ramanagara,3.0,8.0,0,,0,,0,,412.0,12.0,4.5,4.3
+2025-02-13,15:42:00,BK829940,Cancelled,C2246,Bike,Rajajinagar,Bommanahalli,,,1,Wrong Address,1,More than permitted people in there,1,Other Issue,,,,
+2025-02-06,04:44:00,BK459363,Cancelled,C3962,Bike,Bengaluru East,Kundalahalli,,,1,Driver asked to cancel,1,Personal & Car related issues,1,Customer Demand,,,,
+2025-02-26,19:24:00,BK865565,Cancelled,C3876,Prime Plus,Vijayanagar,Yelahanka,,,1,Driver asked to cancel,1,The customer was coughing/sick,1,Vehicle Breakdown,,,,
+2025-02-06,00:37:00,BK746268,Success,C8442,Mini,Bengaluru East,Bangalore University,8.0,11.0,0,,0,,0,,123.0,37.0,4.3,3.8
+2025-02-17,10:56:00,BK285275,Cancelled,C8139,eBike,RT Nagar,Kengeri,,,1,Change of plans,1,Customer related issue,1,Other Issue,,,,
+2025-02-12,20:02:00,BK811266,Cancelled,C7718,Auto,Kormangala 1st Block,RT Nagar,,,1,Driver is not moving towards pickup location,1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-02-03,01:54:00,BK137565,Cancelled,C4453,Prime SUV,Hebbal,Basavanagudi,,,1,Driver is not moving towards pickup location,1,Personal & Car related issues,1,Customer Demand,,,,
+2025-02-21,23:31:00,BK255138,Success,C5377,eBike,Jalahalli,Frazer Town,10.0,12.0,0,,0,,0,,414.0,45.0,4.6,3.6
+2025-02-20,15:17:00,BK983381,Success,C9339,Prime Plus,Kormangala 1st Block,Chikkajala,4.0,11.0,0,,0,,0,,428.0,38.0,4.3,4.3
+2025-02-01,19:23:00,BK395534,Success,C1476,eBike,Basavanagudi,Kengeri,8.0,4.0,0,,0,,0,,63.0,12.0,4.6,3.7
+2025-02-01,18:09:00,BK236477,Success,C9872,Mini,Sanjay Nagar,Chandapura,4.0,11.0,0,,0,,0,,452.0,24.0,3.8,4.2
+2025-02-17,20:52:00,BK425498,Success,C3458,Prime Sedan,Peenya,Indiranagar,9.0,5.0,0,,0,,0,,359.0,37.0,4.7,4.0
+2025-02-27,15:03:00,BK461115,Success,C8524,Mini,Bangalore University,Bellandur,12.0,6.0,0,,0,,0,,480.0,39.0,4.6,4.2
+2025-02-14,12:12:00,BK411753,Success,C2083,Prime Sedan,Bannergatta,Jakkur,7.0,9.0,0,,0,,0,,469.0,38.0,4.7,3.5
+2025-02-15,20:55:00,BK739690,Cancelled,C9878,eBike,Jakkur,Kudlu,,,1,AC is not working (Only for 4-wheelers),1,Customer related issue,1,Vehicle Breakdown,,,,
+2025-02-20,00:35:00,BK346518,Success,C7662,eBike,Kasavanahalli,Yeshwanthpur,9.0,4.0,0,,0,,0,,300.0,22.0,3.6,3.7
+2025-02-20,07:00:00,BK475473,Cancelled,C7976,Auto,CV Raman Nagar,RT Nagar,,,1,Wrong Address,1,More than permitted people in there,1,Other Issue,,,,
+2025-02-21,04:46:00,BK225107,Success,C9706,Prime SUV,Yelahanka New Town,Yeshwanthpur,3.0,10.0,0,,0,,0,,237.0,27.0,4.5,3.9
+2025-02-23,13:00:00,BK930928,Success,C6486,Bike,Indiranagar,Banaswadi,3.0,12.0,0,,0,,0,,447.0,50.0,4.8,5.0
+2025-02-09,18:36:00,BK762075,Success,C7259,Bike,Marathahalli,Doddaballapur,7.0,10.0,0,,0,,0,,185.0,35.0,3.8,4.5
+2025-02-08,15:12:00,BK311413,Success,C2772,Auto,Yelahanka New Town,Jayanagar,12.0,8.0,0,,0,,0,,209.0,47.0,4.7,4.4
+2025-02-21,16:20:00,BK841735,Success,C3356,Prime Sedan,Chikkajala,Bellandur,8.0,12.0,0,,0,,0,,363.0,16.0,4.9,3.6
+2025-02-17,04:24:00,BK859206,Cancelled,C4221,Prime Sedan,Banaswadi,Vijayanagar,,,1,Driver is not moving towards pickup location,1,The customer was coughing/sick,1,Vehicle Breakdown,,,,
+2025-02-25,13:03:00,BK243509,Success,C4790,eBike,Sarakki,Sanjay Nagar,7.0,3.0,0,,0,,0,,96.0,33.0,5.0,3.9
+2025-02-18,10:07:00,BK281764,Cancelled,C6503,eBike,Hebbal,Kormangala 1st Block,,,1,Driver asked to cancel,1,Personal & Car related issues,1,Other Issue,,,,
+2025-02-10,00:12:00,BK105720,Success,C9234,eBike,Bangalore East,RT Nagar,11.0,11.0,0,,0,,0,,138.0,48.0,4.5,3.7
+2025-02-26,17:01:00,BK379948,Cancelled,C6385,eBike,Bellandur,Kormangala 1st Block,,,1,AC is not working (Only for 4-wheelers),1,The customer was coughing/sick,1,Customer Demand,,,,
+2025-03-01,16:13:00,BK181626,Success,C3607,Prime Plus,Hebbal,Peenya,11.0,9.0,0,,0,,0,,107.0,48.0,3.7,4.2
+2025-03-01,05:32:00,BK901805,Success,C6566,Prime Plus,Jayanagar,Sarakki,3.0,6.0,0,,0,,0,,107.0,35.0,4.9,4.6
+2025-02-25,12:24:00,BK865252,Success,C7415,Bike,Bangalore Palace,Vasanth Nagar,7.0,6.0,0,,0,,0,,112.0,43.0,4.9,4.3
+2025-03-02,10:46:00,BK592055,Success,C9714,Prime Plus,Whitefield,MG Road,4.0,3.0,0,,0,,0,,159.0,7.0,3.8,4.6
+2025-02-09,12:29:00,BK699671,Cancelled,C2098,Bike,Vijayanagar,Ramanagara,,,1,Driver is not moving towards pickup location,1,Customer related issue,1,Vehicle Breakdown,,,,
+2025-02-11,17:34:00,BK372031,Cancelled,C3300,Prime Plus,Jalahalli,Bangalore Palace,,,1,Driver is not moving towards pickup location,1,More than permitted people in there,1,Vehicle Breakdown,,,,
+2025-02-15,01:53:00,BK802489,Cancelled,C6695,Prime SUV,RT Nagar,MG Road,,,1,Driver asked to cancel,1,More than permitted people in there,1,Vehicle Breakdown,,,,
+2025-02-02,09:23:00,BK130115,Cancelled,C7931,Mini,Kammanahalli,Yelahanka New Town,,,1,Driver asked to cancel,1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-02-02,15:14:00,BK508628,Cancelled,C1547,eBike,Sanjay Nagar,Bangalore University,,,1,Driver is not moving towards pickup location,1,The customer was coughing/sick,1,Customer Demand,,,,
+2025-02-19,05:34:00,BK220968,Success,C2373,Bike,Bannergatta,Kudlu,8.0,9.0,0,,0,,0,,89.0,19.0,4.5,4.8
+2025-03-01,22:33:00,BK744381,Cancelled,C3499,Mini,Marathahalli,Kammanahalli,,,1,Driver is not moving towards pickup location,1,Personal & Car related issues,1,Customer Demand,,,,
+2025-02-03,05:44:00,BK481371,Cancelled,C9805,Bike,Chikkajala,CV Raman Nagar,,,1,Driver asked to cancel,1,More than permitted people in there,1,Customer Demand,,,,
+2025-02-15,10:57:00,BK529907,Cancelled,C8129,Prime SUV,Sree Chowdeshwari Nagar,Frazer Town,,,1,AC is not working (Only for 4-wheelers),1,More than permitted people in there,1,Vehicle Breakdown,,,,
+2025-02-18,06:48:00,BK526724,Success,C9169,eBike,Jakkur,Sahakaranagar,9.0,12.0,0,,0,,0,,222.0,11.0,4.3,4.8
+2025-02-28,11:51:00,BK860790,Success,C2599,Prime SUV,Yelahanka,Banaswadi,8.0,8.0,0,,0,,0,,363.0,18.0,4.6,4.9
+2025-02-19,15:04:00,BK851936,Success,C6445,Prime Sedan,Ulsoor,Ramanagara,3.0,7.0,0,,0,,0,,86.0,6.0,4.6,4.8
+2025-02-25,02:59:00,BK929950,Success,C7762,Prime SUV,Marathahalli,Jalahalli,3.0,11.0,0,,0,,0,,263.0,12.0,4.5,4.4
+2025-02-10,06:46:00,BK584371,Success,C5160,Mini,Singasandra,Sree Chowdeshwari Nagar,12.0,4.0,0,,0,,0,,339.0,32.0,4.6,4.9
+2025-02-04,13:12:00,BK695261,Success,C6337,Bike,Whitefield,Yelahanka,4.0,11.0,0,,0,,0,,241.0,23.0,3.5,3.8
+2025-02-22,08:39:00,BK946352,Success,C5031,Mini,Okalipuram,HSR Layout,6.0,6.0,0,,0,,0,,467.0,9.0,3.7,4.6
+2025-02-12,23:05:00,BK482061,Cancelled,C3428,Prime SUV,Frazer Town,Rajagopal Nagar,,,1,Wrong Address,1,Customer related issue,1,Other Issue,,,,
+2025-02-12,06:49:00,BK727098,Cancelled,C9904,Mini,Yeshwanthpur,Yelahanka,,,1,AC is not working (Only for 4-wheelers),1,Personal & Car related issues,1,Other Issue,,,,
+2025-02-10,06:10:00,BK820359,Cancelled,C4739,Prime SUV,MG Road,Bangalore Palace,,,1,AC is not working (Only for 4-wheelers),1,Customer related issue,1,Vehicle Breakdown,,,,
+2025-02-18,22:31:00,BK585238,Cancelled,C5168,Prime Plus,Kammanahalli,Bangalore University,,,1,Driver asked to cancel,1,Personal & Car related issues,1,Customer Demand,,,,
+2025-02-05,17:45:00,BK684253,Cancelled,C8986,Prime Plus,Yeshwanthpur,Bangalore East,,,1,Change of plans,1,Customer related issue,1,Other Issue,,,,
+2025-02-02,07:47:00,BK941866,Cancelled,C8295,Mini,Malleshwaram,Ulsoor,,,1,AC is not working (Only for 4-wheelers),1,More than permitted people in there,1,Vehicle Breakdown,,,,
+2025-02-02,17:53:00,BK982688,Success,C5600,Bike,Sanjay Nagar,Kudlu,5.0,10.0,0,,0,,0,,225.0,7.0,4.4,4.9
+2025-03-01,20:54:00,BK363653,Success,C4814,Mini,Whitefield,Vasanth Nagar,9.0,10.0,0,,0,,0,,396.0,45.0,4.2,4.1
+2025-02-18,20:48:00,BK832338,Cancelled,C9420,eBike,Rajajinagar,Raghavendra Colony,,,1,Driver asked to cancel,1,Personal & Car related issues,1,Other Issue,,,,
+2025-02-24,02:07:00,BK619342,Cancelled,C1958,Auto,Whitefield,Sahakaranagar,,,1,Wrong Address,1,The customer was coughing/sick,1,Customer Demand,,,,
+2025-02-24,20:19:00,BK118955,Cancelled,C7345,Prime Sedan,Sree Chowdeshwari Nagar,HSR Layout,,,1,Wrong Address,1,The customer was coughing/sick,1,Vehicle Breakdown,,,,
+2025-02-13,11:43:00,BK442605,Cancelled,C4624,Mini,Bellandur,Kammanahalli,,,1,Wrong Address,1,Customer related issue,1,Vehicle Breakdown,,,,
+2025-02-10,04:11:00,BK235610,Success,C5478,Auto,Indiranagar,Bannergatta,8.0,12.0,0,,0,,0,,187.0,41.0,4.3,4.7
+2025-02-22,15:17:00,BK233201,Cancelled,C7229,eBike,MG Road,Malleshwaram,,,1,Change of plans,1,Customer related issue,1,Other Issue,,,,
+2025-02-13,13:07:00,BK423479,Success,C9977,eBike,Banashankari,Bangalore University,11.0,6.0,0,,0,,0,,125.0,12.0,3.9,3.7
+2025-02-11,00:55:00,BK886978,Success,C1069,Prime SUV,Okalipuram,Chikkajala,7.0,3.0,0,,0,,0,,62.0,9.0,3.9,4.4
+2025-02-27,00:37:00,BK208327,Success,C7140,Prime Plus,Banashankari,Bangalore Palace,6.0,7.0,0,,0,,0,,267.0,45.0,3.5,3.9
+2025-02-09,07:37:00,BK920878,Success,C7674,Mini,Sree Chowdeshwari Nagar,Rajagopal Nagar,7.0,12.0,0,,0,,0,,93.0,43.0,4.0,4.6
+2025-02-06,17:21:00,BK922015,Success,C1109,Prime Plus,Rajajinagar,Marathahalli,5.0,8.0,0,,0,,0,,253.0,24.0,3.6,4.7
+2025-02-27,18:39:00,BK338754,Success,C9780,Auto,Kasavanahalli,MG Road,9.0,4.0,0,,0,,0,,281.0,47.0,4.7,4.9
+2025-02-24,16:59:00,BK848614,Success,C2263,Mini,Sahakaranagar,Marathahalli,7.0,6.0,0,,0,,0,,256.0,12.0,4.2,4.1
+2025-02-04,14:26:00,BK630251,Cancelled,C6929,Mini,Bangalore East,Vasanth Nagar,,,1,Change of plans,1,More than permitted people in there,1,Customer Demand,,,,
+2025-02-22,12:21:00,BK861336,Cancelled,C1776,Mini,Shivajinagar,Marathahalli,,,1,Change of plans,1,The customer was coughing/sick,1,Other Issue,,,,
+2025-02-04,09:55:00,BK378278,Success,C1360,Auto,Bengaluru East,Jakkur,6.0,8.0,0,,0,,0,,381.0,34.0,4.9,4.0
+2025-02-15,01:03:00,BK627729,Cancelled,C8383,Auto,RT Nagar,Malleshwaram,,,1,Change of plans,1,More than permitted people in there,1,Vehicle Breakdown,,,,
+2025-02-09,23:19:00,BK427156,Success,C6422,Bike,Singasandra,KR Puram,6.0,3.0,0,,0,,0,,251.0,30.0,4.7,4.1
+2025-02-01,00:39:00,BK875276,Cancelled,C8827,Auto,Vijayanagar,Ramanagara,,,1,AC is not working (Only for 4-wheelers),1,The customer was coughing/sick,1,Customer Demand,,,,
+2025-02-21,13:43:00,BK278486,Cancelled,C8707,Prime Sedan,Okalipuram,KR Puram,,,1,Driver asked to cancel,1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-02-17,07:42:00,BK203886,Success,C4372,Prime Sedan,Kengeri,Sarakki,12.0,12.0,0,,0,,0,,128.0,22.0,4.1,4.3
+2025-02-20,15:27:00,BK165441,Cancelled,C1283,Mini,Malleshwaram,Kormangala 1st Block,,,1,Driver asked to cancel,1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-02-24,10:44:00,BK281984,Success,C3055,Prime SUV,Chikkajala,Kundalahalli,10.0,3.0,0,,0,,0,,307.0,32.0,4.8,4.9
+2025-02-18,23:06:00,BK149170,Cancelled,C2924,Prime SUV,Yeshwanthpur,Kengeri,,,1,Change of plans,1,More than permitted people in there,1,Customer Demand,,,,
+2025-02-28,13:32:00,BK936255,Success,C3355,Mini,Bellandur,CV Raman Nagar,6.0,4.0,0,,0,,0,,394.0,45.0,3.7,5.0
+2025-02-27,19:03:00,BK234804,Success,C8307,eBike,Indiranagar,Marathahalli,4.0,3.0,0,,0,,0,,240.0,20.0,4.1,4.1
+2025-03-01,19:30:00,BK778981,Cancelled,C5317,Prime Plus,Bangalore East,Bangalore University,,,1,Driver is not moving towards pickup location,1,The customer was coughing/sick,1,Customer Demand,,,,
+2025-02-21,14:39:00,BK543175,Success,C7546,Prime Plus,Sahakaranagar,Sanjay Nagar,8.0,7.0,0,,0,,0,,295.0,33.0,4.8,4.9
+2025-02-02,07:26:00,BK270132,Success,C3178,eBike,Sahakaranagar,Vasanth Nagar,7.0,5.0,0,,0,,0,,355.0,31.0,3.6,3.5
+2025-03-01,02:33:00,BK698664,Success,C1654,Prime Plus,Sarakki,Ramanagara,7.0,10.0,0,,0,,0,,152.0,16.0,4.0,4.6
+2025-02-03,18:21:00,BK819503,Cancelled,C4194,eBike,Jalahalli,CV Raman Nagar,,,1,Wrong Address,1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-02-04,14:32:00,BK274569,Success,C1406,Prime SUV,Frazer Town,Singasandra,8.0,6.0,0,,0,,0,,410.0,6.0,4.6,4.3
+2025-02-06,06:45:00,BK359458,Success,C2050,Prime SUV,Bengaluru East,Ulsoor,10.0,8.0,0,,0,,0,,465.0,45.0,4.3,4.0
+2025-02-13,01:44:00,BK734536,Cancelled,C8028,Bike,Whitefield,Hebbal,,,1,Driver asked to cancel,1,The customer was coughing/sick,1,Customer Demand,,,,
+2025-02-05,21:55:00,BK885374,Cancelled,C1174,Prime Sedan,Okalipuram,Kasavanahalli,,,1,AC is not working (Only for 4-wheelers),1,Customer related issue,1,Customer Demand,,,,
+2025-02-08,08:45:00,BK103997,Success,C6121,Prime Plus,Jayanagar,Banashankari,10.0,5.0,0,,0,,0,,229.0,8.0,4.2,4.2
+2025-02-10,18:42:00,BK639465,Success,C3809,Mini,RT Nagar,MG Road,8.0,3.0,0,,0,,0,,133.0,39.0,4.7,3.8
+2025-02-27,22:01:00,BK221731,Cancelled,C8062,Mini,Sarakki,MG Road,,,1,AC is not working (Only for 4-wheelers),1,Personal & Car related issues,1,Other Issue,,,,
+2025-02-06,07:44:00,BK648559,Success,C8261,eBike,Bangalore University,Kengeri,3.0,6.0,0,,0,,0,,437.0,49.0,3.9,4.2
+2025-02-07,05:37:00,BK159024,Success,C6009,Prime SUV,Bengaluru East,Chandapura,4.0,12.0,0,,0,,0,,286.0,49.0,4.2,5.0
+2025-02-13,22:48:00,BK315095,Success,C8053,Prime SUV,Raghavendra Colony,MG Road,4.0,12.0,0,,0,,0,,474.0,36.0,4.8,3.7
+2025-02-08,11:28:00,BK861760,Success,C4636,Prime Sedan,Bengaluru East,Ulsoor,5.0,3.0,0,,0,,0,,218.0,12.0,4.6,4.3
+2025-02-10,07:05:00,BK858317,Success,C9807,eBike,Rajajinagar,Kormangala 1st Block,10.0,10.0,0,,0,,0,,351.0,6.0,3.9,3.7
+2025-02-26,08:25:00,BK712655,Cancelled,C1101,Prime Plus,Banaswadi,Sanjay Nagar,,,1,Driver is not moving towards pickup location,1,The customer was coughing/sick,1,Customer Demand,,,,
+2025-02-13,12:53:00,BK759054,Success,C7969,Prime SUV,Jalahalli,Kormangala 1st Block,9.0,3.0,0,,0,,0,,482.0,16.0,4.3,4.1
+2025-02-18,14:08:00,BK455062,Success,C8347,Mini,Peenya,Shivajinagar,10.0,12.0,0,,0,,0,,258.0,7.0,3.7,4.7
+2025-03-02,09:51:00,BK397747,Cancelled,C5457,Mini,Bannergatta,Singasandra,,,1,Wrong Address,1,Customer related issue,1,Customer Demand,,,,
+2025-02-28,17:16:00,BK347753,Success,C3833,Prime Plus,KR Puram,Chikkajala,7.0,6.0,0,,0,,0,,118.0,9.0,3.7,4.7
+2025-03-02,07:42:00,BK304352,Cancelled,C4743,Prime SUV,Bommanahalli,MG Road,,,1,Driver is not moving towards pickup location,1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-02-15,17:16:00,BK908405,Cancelled,C6275,Prime Plus,Kormangala 1st Block,Frazer Town,,,1,Driver asked to cancel,1,More than permitted people in there,1,Customer Demand,,,,
+2025-02-17,12:09:00,BK203903,Success,C8949,Prime Sedan,Kundalahalli,Hebbal,7.0,5.0,0,,0,,0,,340.0,18.0,5.0,4.8
+2025-02-14,08:10:00,BK195508,Success,C2716,eBike,Rajajinagar,Sahakaranagar,3.0,12.0,0,,0,,0,,382.0,37.0,3.6,4.6
+2025-02-11,14:59:00,BK526529,Success,C4518,Prime Plus,Peenya,Yelahanka New Town,5.0,8.0,0,,0,,0,,70.0,12.0,4.2,4.1
+2025-03-01,15:56:00,BK651286,Cancelled,C7910,eBike,Peenya,Chikkajala,,,1,Wrong Address,1,The customer was coughing/sick,1,Vehicle Breakdown,,,,
+2025-02-18,22:54:00,BK340618,Success,C6697,Prime Sedan,Kengeri,Sree Chowdeshwari Nagar,3.0,8.0,0,,0,,0,,466.0,33.0,4.9,3.7
+2025-02-27,14:14:00,BK855203,Success,C9040,Bike,Bangalore East,Indiranagar,3.0,9.0,0,,0,,0,,250.0,47.0,4.3,4.7
+2025-03-02,00:39:00,BK741007,Cancelled,C2090,Prime Plus,Whitefield,Basavanagudi,,,1,Driver asked to cancel,1,Customer related issue,1,Vehicle Breakdown,,,,
+2025-02-01,05:55:00,BK435573,Cancelled,C7612,Auto,Koramangala,Banaswadi,,,1,Change of plans,1,The customer was coughing/sick,1,Vehicle Breakdown,,,,
+2025-02-18,08:57:00,BK685462,Success,C6231,Bike,Indiranagar,Sahakaranagar,12.0,11.0,0,,0,,0,,317.0,17.0,4.1,4.5
+2025-02-03,02:34:00,BK910894,Cancelled,C5835,Bike,Vasanth Nagar,Hebbal,,,1,Driver asked to cancel,1,More than permitted people in there,1,Other Issue,,,,
+2025-02-22,02:13:00,BK662806,Success,C8257,Prime Plus,Kormangala 1st Block,Rajajinagar,3.0,10.0,0,,0,,0,,267.0,34.0,4.8,4.7
+2025-02-12,20:20:00,BK681589,Success,C7951,eBike,Bengaluru East,Raghavendra Colony,9.0,10.0,0,,0,,0,,449.0,31.0,3.6,4.7
+2025-02-24,08:08:00,BK397792,Cancelled,C3493,Bike,Ramanagara,Bangalore East,,,1,Driver is not moving towards pickup location,1,Customer related issue,1,Vehicle Breakdown,,,,
+2025-02-19,22:12:00,BK468661,Cancelled,C3386,eBike,Indiranagar,Kundalahalli,,,1,Wrong Address,1,Personal & Car related issues,1,Other Issue,,,,
+2025-02-03,06:03:00,BK243767,Cancelled,C5457,Prime Sedan,Yelahanka New Town,Malleshwaram,,,1,Driver is not moving towards pickup location,1,The customer was coughing/sick,1,Vehicle Breakdown,,,,
+2025-02-09,00:05:00,BK296310,Cancelled,C9083,Auto,Jakkur,Sree Chowdeshwari Nagar,,,1,AC is not working (Only for 4-wheelers),1,Personal & Car related issues,1,Other Issue,,,,
+2025-03-02,13:54:00,BK268738,Success,C1253,eBike,CV Raman Nagar,Chikkajala,12.0,5.0,0,,0,,0,,452.0,14.0,3.6,4.8
+2025-02-23,21:27:00,BK164908,Success,C9178,Prime SUV,Kundalahalli,Peenya,8.0,9.0,0,,0,,0,,368.0,15.0,3.9,4.4
+2025-02-26,03:17:00,BK684603,Success,C3862,Prime SUV,Sarakki,Kormangala 1st Block,4.0,10.0,0,,0,,0,,67.0,11.0,3.9,4.4
+2025-02-15,23:18:00,BK885497,Cancelled,C8505,Mini,Rajagopal Nagar,Sahakaranagar,,,1,AC is not working (Only for 4-wheelers),1,Customer related issue,1,Customer Demand,,,,
+2025-02-24,23:06:00,BK664274,Success,C9622,Prime Plus,Chikkajala,Kormangala 1st Block,12.0,12.0,0,,0,,0,,102.0,32.0,3.6,4.8
+2025-02-17,17:32:00,BK972581,Success,C3103,Prime SUV,Bangalore East,Bangalore Palace,8.0,6.0,0,,0,,0,,323.0,31.0,4.7,4.3
+2025-02-20,15:23:00,BK934498,Success,C8525,Prime SUV,Bannergatta,Yeshwanthpur,7.0,6.0,0,,0,,0,,249.0,30.0,4.1,4.0
+2025-02-11,01:31:00,BK780149,Success,C4380,eBike,Sahakaranagar,Banashankari,4.0,5.0,0,,0,,0,,405.0,46.0,4.8,3.8
+2025-02-24,00:28:00,BK922906,Success,C7923,Prime Sedan,Vijayanagar,MG Road,3.0,3.0,0,,0,,0,,144.0,18.0,4.2,4.2
+2025-03-01,03:34:00,BK823685,Success,C5421,Prime Plus,Peenya,Koramangala,8.0,5.0,0,,0,,0,,434.0,37.0,4.7,4.0
+2025-02-24,10:09:00,BK680148,Success,C7542,Prime SUV,CV Raman Nagar,Kasavanahalli,8.0,7.0,0,,0,,0,,268.0,30.0,3.7,4.6
+2025-02-19,17:22:00,BK955595,Success,C8872,Mini,Malleshwaram,HSR Layout,7.0,8.0,0,,0,,0,,77.0,17.0,3.9,4.7
+2025-02-02,22:37:00,BK531400,Cancelled,C3638,Prime SUV,Bannergatta,Kudlu,,,1,Change of plans,1,More than permitted people in there,1,Customer Demand,,,,
+2025-02-04,21:12:00,BK793937,Success,C5661,Mini,Kundalahalli,Sarakki,6.0,4.0,0,,0,,0,,310.0,37.0,4.0,3.5
+2025-03-01,10:24:00,BK246185,Success,C9339,Prime SUV,Vijayanagar,Rajajinagar,4.0,4.0,0,,0,,0,,389.0,12.0,4.7,4.0
+2025-02-25,15:08:00,BK844777,Cancelled,C9058,eBike,Whitefield,Basavanagudi,,,1,Driver is not moving towards pickup location,1,Customer related issue,1,Customer Demand,,,,
+2025-02-18,04:01:00,BK782412,Cancelled,C1571,Mini,Raghavendra Colony,Jayanagar,,,1,AC is not working (Only for 4-wheelers),1,The customer was coughing/sick,1,Vehicle Breakdown,,,,
+2025-02-06,10:05:00,BK706180,Cancelled,C7328,Prime Sedan,Bengaluru East,Indiranagar,,,1,AC is not working (Only for 4-wheelers),1,More than permitted people in there,1,Vehicle Breakdown,,,,
+2025-02-06,18:04:00,BK877006,Cancelled,C8550,Bike,Sree Chowdeshwari Nagar,Kammanahalli,,,1,Change of plans,1,More than permitted people in there,1,Other Issue,,,,
+2025-02-24,23:20:00,BK909560,Success,C8238,Prime SUV,Banaswadi,Jakkur,5.0,4.0,0,,0,,0,,404.0,32.0,4.5,3.7
+2025-02-08,02:01:00,BK452259,Cancelled,C9871,Bike,MG Road,Hebbal,,,1,Driver is not moving towards pickup location,1,Customer related issue,1,Vehicle Breakdown,,,,
+2025-02-20,05:29:00,BK910727,Cancelled,C8576,Auto,Sarakki,Koramangala,,,1,Driver asked to cancel,1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-02-23,12:41:00,BK932011,Cancelled,C6514,eBike,Marathahalli,Doddaballapur,,,1,Driver asked to cancel,1,Personal & Car related issues,1,Other Issue,,,,
+2025-02-16,05:47:00,BK270170,Cancelled,C1256,eBike,Chandapura,MG Road,,,1,Change of plans,1,The customer was coughing/sick,1,Vehicle Breakdown,,,,
+2025-02-21,00:51:00,BK702245,Success,C4354,Prime Plus,Yelahanka New Town,Bommanahalli,7.0,7.0,0,,0,,0,,51.0,17.0,4.9,4.6
+2025-02-09,11:28:00,BK720969,Success,C5376,Bike,Doddaballapur,Bellandur,4.0,5.0,0,,0,,0,,287.0,37.0,3.6,3.6
+2025-02-17,17:22:00,BK128904,Cancelled,C8116,Bike,Doddaballapur,Chikkajala,,,1,Driver asked to cancel,1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-02-08,10:23:00,BK631993,Cancelled,C3467,eBike,Kormangala 1st Block,Bellandur,,,1,AC is not working (Only for 4-wheelers),1,More than permitted people in there,1,Vehicle Breakdown,,,,
+2025-02-24,23:29:00,BK485961,Success,C1361,eBike,Whitefield,Bangalore University,4.0,8.0,0,,0,,0,,267.0,36.0,3.8,4.0
+2025-02-02,18:14:00,BK387872,Cancelled,C9669,Prime Sedan,Sanjay Nagar,MG Road,,,1,Change of plans,1,Customer related issue,1,Other Issue,,,,
+2025-02-20,07:26:00,BK659734,Success,C7929,Prime SUV,Kammanahalli,Jakkur,4.0,9.0,0,,0,,0,,93.0,18.0,4.2,4.3
+2025-02-06,04:46:00,BK638282,Success,C6449,Prime Sedan,Kasavanahalli,Ramanagara,6.0,3.0,0,,0,,0,,200.0,50.0,4.4,4.0
+2025-02-06,11:55:00,BK699034,Success,C6472,Prime SUV,Rajajinagar,Indiranagar,10.0,8.0,0,,0,,0,,499.0,19.0,5.0,4.2
+2025-02-24,16:05:00,BK673501,Success,C1973,Prime SUV,Indiranagar,Bannergatta,8.0,7.0,0,,0,,0,,269.0,46.0,4.1,3.9
+2025-02-17,00:26:00,BK816636,Cancelled,C9515,eBike,Doddaballapur,MG Road,,,1,AC is not working (Only for 4-wheelers),1,The customer was coughing/sick,1,Vehicle Breakdown,,,,
+2025-02-22,19:48:00,BK353737,Success,C1156,Mini,Banaswadi,Bengaluru East,7.0,8.0,0,,0,,0,,432.0,24.0,4.7,4.9
+2025-02-14,18:14:00,BK693309,Success,C5348,Prime Plus,Banashankari,Marathahalli,5.0,5.0,0,,0,,0,,301.0,48.0,4.7,3.9
+2025-03-02,00:08:00,BK721917,Success,C8833,Prime Sedan,Jayanagar,Sree Chowdeshwari Nagar,5.0,10.0,0,,0,,0,,244.0,25.0,3.5,4.0
+2025-02-17,16:46:00,BK744784,Cancelled,C2193,Auto,Frazer Town,Ulsoor,,,1,Driver asked to cancel,1,The customer was coughing/sick,1,Customer Demand,,,,
+2025-02-20,11:48:00,BK654882,Success,C6635,eBike,Shivajinagar,Kormangala 1st Block,6.0,10.0,0,,0,,0,,250.0,24.0,4.1,3.8
+2025-02-10,13:59:00,BK805202,Success,C6823,Prime Plus,Bengaluru East,Jayanagar,12.0,5.0,0,,0,,0,,79.0,29.0,4.4,4.2
+2025-02-07,13:56:00,BK335843,Success,C6643,eBike,Jalahalli,Rajagopal Nagar,11.0,12.0,0,,0,,0,,238.0,17.0,4.4,4.9
+2025-02-20,22:13:00,BK321531,Cancelled,C6916,eBike,MG Road,Kundalahalli,,,1,Change of plans,1,The customer was coughing/sick,1,Vehicle Breakdown,,,,
+2025-02-13,07:01:00,BK595359,Success,C1659,Prime SUV,KR Puram,Marathahalli,8.0,11.0,0,,0,,0,,309.0,29.0,4.8,4.1
+2025-02-25,11:02:00,BK545914,Success,C7783,Prime Sedan,Doddaballapur,Banaswadi,9.0,7.0,0,,0,,0,,64.0,21.0,3.5,3.8
+2025-02-24,12:52:00,BK763658,Success,C7872,Prime SUV,Hebbal,RT Nagar,8.0,12.0,0,,0,,0,,350.0,38.0,4.4,4.5
+2025-02-20,09:07:00,BK223299,Success,C9987,Prime Sedan,Bangalore East,Indiranagar,7.0,12.0,0,,0,,0,,255.0,22.0,3.8,3.6
+2025-02-11,03:56:00,BK377167,Cancelled,C6675,Bike,Banaswadi,Basavanagudi,,,1,Change of plans,1,Personal & Car related issues,1,Other Issue,,,,
+2025-02-26,10:30:00,BK299948,Success,C9510,Prime SUV,Kammanahalli,Shivajinagar,9.0,9.0,0,,0,,0,,370.0,27.0,4.2,3.9
+2025-03-01,18:59:00,BK512891,Cancelled,C1019,Mini,Singasandra,RT Nagar,,,1,AC is not working (Only for 4-wheelers),1,The customer was coughing/sick,1,Other Issue,,,,
+2025-02-26,01:17:00,BK566444,Success,C8685,eBike,Kudlu,Chandapura,7.0,5.0,0,,0,,0,,465.0,44.0,4.3,3.8
+2025-02-03,21:37:00,BK136105,Cancelled,C3405,Mini,Sanjay Nagar,RT Nagar,,,1,Driver is not moving towards pickup location,1,More than permitted people in there,1,Customer Demand,,,,
+2025-02-16,01:23:00,BK909489,Success,C5439,Mini,Jalahalli,Hebbal,8.0,11.0,0,,0,,0,,427.0,31.0,4.0,4.3
+2025-02-23,16:23:00,BK383113,Success,C8083,eBike,Kengeri,Bangalore East,11.0,4.0,0,,0,,0,,379.0,50.0,4.2,3.9
+2025-02-13,22:32:00,BK760152,Cancelled,C3644,Prime Plus,Jalahalli,Kormangala 1st Block,,,1,AC is not working (Only for 4-wheelers),1,Personal & Car related issues,1,Other Issue,,,,
+2025-02-04,17:12:00,BK173241,Success,C2470,eBike,Chikkajala,Kormangala 1st Block,3.0,5.0,0,,0,,0,,335.0,14.0,4.6,4.4
+2025-02-21,17:24:00,BK735627,Success,C9784,Prime Sedan,Koramangala,Yelahanka New Town,4.0,12.0,0,,0,,0,,153.0,15.0,3.8,3.6
+2025-02-12,16:49:00,BK447990,Success,C4793,Prime Sedan,Kammanahalli,Kengeri,5.0,12.0,0,,0,,0,,88.0,34.0,3.8,4.9
+2025-02-23,14:18:00,BK683493,Success,C4973,Bike,Kammanahalli,Shivajinagar,12.0,4.0,0,,0,,0,,494.0,23.0,4.9,4.5
+2025-02-07,06:07:00,BK970958,Success,C8779,Mini,Chandapura,Indiranagar,4.0,4.0,0,,0,,0,,412.0,21.0,3.7,4.4
+2025-02-15,16:00:00,BK178261,Cancelled,C2026,eBike,Kudlu,HSR Layout,,,1,Driver asked to cancel,1,More than permitted people in there,1,Customer Demand,,,,
+2025-02-11,04:29:00,BK695238,Cancelled,C9950,Bike,Shivajinagar,Peenya,,,1,Driver is not moving towards pickup location,1,Customer related issue,1,Customer Demand,,,,
+2025-02-25,07:48:00,BK516495,Success,C8037,eBike,RT Nagar,Vasanth Nagar,8.0,12.0,0,,0,,0,,434.0,32.0,4.1,4.2
+2025-02-07,10:21:00,BK709341,Success,C5594,eBike,Vasanth Nagar,Koramangala,7.0,7.0,0,,0,,0,,428.0,20.0,4.4,4.1
+2025-02-13,18:31:00,BK587638,Success,C2052,eBike,Bellandur,KR Puram,4.0,9.0,0,,0,,0,,92.0,43.0,3.6,4.5
+2025-02-05,01:54:00,BK300040,Cancelled,C1420,Prime Sedan,Vasanth Nagar,RT Nagar,,,1,Driver is not moving towards pickup location,1,More than permitted people in there,1,Vehicle Breakdown,,,,
+2025-02-20,23:12:00,BK378852,Success,C6445,Mini,Banaswadi,Chandapura,6.0,5.0,0,,0,,0,,274.0,11.0,4.4,3.8
+2025-02-13,15:45:00,BK541499,Cancelled,C4248,Prime Sedan,Vasanth Nagar,Peenya,,,1,Driver is not moving towards pickup location,1,Personal & Car related issues,1,Other Issue,,,,
+2025-02-17,22:05:00,BK824312,Success,C7819,Bike,Ulsoor,Kammanahalli,7.0,5.0,0,,0,,0,,82.0,22.0,3.8,3.6
+2025-02-27,03:02:00,BK577737,Cancelled,C2434,Bike,Bangalore East,RT Nagar,,,1,Wrong Address,1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-02-02,16:46:00,BK754490,Success,C4454,eBike,Indiranagar,Singasandra,7.0,10.0,0,,0,,0,,452.0,49.0,4.3,4.4
+2025-02-08,14:28:00,BK684249,Cancelled,C3220,Prime Plus,Ulsoor,Jalahalli,,,1,Change of plans,1,The customer was coughing/sick,1,Customer Demand,,,,
+2025-02-23,01:55:00,BK346887,Success,C9968,Mini,Sree Chowdeshwari Nagar,Koramangala,11.0,10.0,0,,0,,0,,140.0,25.0,4.0,4.0
+2025-02-12,05:01:00,BK310735,Success,C6500,Prime SUV,Yelahanka New Town,Sanjay Nagar,3.0,10.0,0,,0,,0,,394.0,26.0,4.9,4.1
+2025-03-02,18:09:00,BK423031,Success,C8098,Prime SUV,Kudlu,Rajajinagar,9.0,9.0,0,,0,,0,,59.0,18.0,4.9,3.8
+2025-02-14,11:26:00,BK849293,Cancelled,C5546,Prime Plus,Shivajinagar,Chandapura,,,1,AC is not working (Only for 4-wheelers),1,More than permitted people in there,1,Vehicle Breakdown,,,,
+2025-02-26,04:49:00,BK323164,Success,C1710,Bike,Sahakaranagar,Bangalore Palace,7.0,8.0,0,,0,,0,,101.0,35.0,4.4,3.8
+2025-02-11,06:10:00,BK485349,Cancelled,C7508,Prime Plus,Yelahanka,Kengeri,,,1,Driver is not moving towards pickup location,1,The customer was coughing/sick,1,Vehicle Breakdown,,,,
+2025-02-09,22:10:00,BK569812,Cancelled,C6627,eBike,Vijayanagar,Okalipuram,,,1,AC is not working (Only for 4-wheelers),1,Personal & Car related issues,1,Customer Demand,,,,
+2025-02-10,15:03:00,BK267625,Success,C2536,Auto,Sanjay Nagar,Raghavendra Colony,4.0,7.0,0,,0,,0,,243.0,9.0,4.4,3.5
+2025-02-12,12:20:00,BK649258,Success,C2127,Mini,Peenya,Shivajinagar,9.0,8.0,0,,0,,0,,145.0,46.0,4.9,4.5
+2025-02-11,10:19:00,BK810809,Cancelled,C4212,Auto,Yeshwanthpur,Rajajinagar,,,1,Change of plans,1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-02-08,11:03:00,BK453343,Success,C8542,Mini,Bellandur,Marathahalli,5.0,12.0,0,,0,,0,,425.0,17.0,3.6,4.0
+2025-02-11,09:49:00,BK807443,Success,C4317,Prime SUV,Bellandur,Chandapura,5.0,3.0,0,,0,,0,,331.0,46.0,4.2,4.2
+2025-02-26,06:57:00,BK597915,Success,C8083,eBike,Bangalore Palace,Bengaluru East,7.0,4.0,0,,0,,0,,126.0,38.0,3.8,4.6
+2025-02-20,11:41:00,BK889391,Cancelled,C2034,Auto,Hebbal,MG Road,,,1,Change of plans,1,Personal & Car related issues,1,Other Issue,,,,
+2025-02-22,21:40:00,BK745606,Success,C9321,Auto,MG Road,Whitefield,3.0,8.0,0,,0,,0,,462.0,28.0,4.8,4.3
+2025-03-01,17:55:00,BK475794,Cancelled,C5899,Auto,Vijayanagar,Bengaluru East,,,1,Driver asked to cancel,1,The customer was coughing/sick,1,Other Issue,,,,
+2025-02-08,15:16:00,BK954211,Success,C7074,Prime Plus,Indiranagar,Yelahanka New Town,8.0,4.0,0,,0,,0,,428.0,43.0,3.9,4.0
+2025-02-21,20:01:00,BK453739,Cancelled,C4122,eBike,Bengaluru East,Rajagopal Nagar,,,1,Wrong Address,1,Personal & Car related issues,1,Other Issue,,,,
+2025-02-27,19:22:00,BK916729,Success,C3231,Mini,HSR Layout,Sanjay Nagar,7.0,12.0,0,,0,,0,,384.0,34.0,3.5,4.7
+2025-02-16,11:35:00,BK663789,Success,C6239,Prime SUV,Okalipuram,Sanjay Nagar,12.0,12.0,0,,0,,0,,340.0,39.0,4.7,4.8
+2025-02-25,08:19:00,BK984741,Success,C5701,Prime SUV,Ramanagara,KR Puram,9.0,3.0,0,,0,,0,,412.0,42.0,4.5,3.8
+2025-02-01,20:43:00,BK454964,Success,C9274,Prime Sedan,Marathahalli,Bangalore Palace,6.0,9.0,0,,0,,0,,77.0,42.0,3.7,3.8
+2025-02-27,12:03:00,BK122125,Cancelled,C4148,Prime Plus,CV Raman Nagar,Bengaluru East,,,1,Wrong Address,1,Personal & Car related issues,1,Customer Demand,,,,
+2025-02-03,05:39:00,BK130399,Success,C5599,Bike,Raghavendra Colony,Sree Chowdeshwari Nagar,8.0,7.0,0,,0,,0,,131.0,21.0,4.3,4.4
+2025-02-01,18:05:00,BK845652,Success,C3606,Mini,Sanjay Nagar,Whitefield,5.0,7.0,0,,0,,0,,72.0,46.0,4.5,4.9
+2025-02-27,07:44:00,BK650451,Cancelled,C2098,Bike,Vasanth Nagar,Jayanagar,,,1,Change of plans,1,Customer related issue,1,Other Issue,,,,
+2025-02-04,02:15:00,BK509316,Cancelled,C7968,Prime Sedan,Malleshwaram,Doddaballapur,,,1,AC is not working (Only for 4-wheelers),1,The customer was coughing/sick,1,Vehicle Breakdown,,,,
+2025-02-17,01:57:00,BK980944,Success,C8005,Prime Plus,Kammanahalli,Bannergatta,11.0,11.0,0,,0,,0,,284.0,10.0,4.3,3.6
+2025-02-15,19:16:00,BK750596,Success,C4324,Auto,Shivajinagar,Yelahanka,3.0,9.0,0,,0,,0,,294.0,49.0,3.6,4.3
+2025-02-02,06:17:00,BK326894,Cancelled,C2101,Mini,Kasavanahalli,RT Nagar,,,1,Wrong Address,1,The customer was coughing/sick,1,Other Issue,,,,
+2025-02-23,19:57:00,BK858371,Success,C8869,Prime Plus,Chandapura,Bangalore East,10.0,11.0,0,,0,,0,,188.0,14.0,3.9,3.7
+2025-02-17,02:35:00,BK237597,Cancelled,C8302,Prime SUV,Peenya,RT Nagar,,,1,Driver asked to cancel,1,More than permitted people in there,1,Other Issue,,,,
+2025-02-27,12:01:00,BK177391,Success,C6043,Prime Plus,Bellandur,Kudlu,9.0,5.0,0,,0,,0,,494.0,27.0,4.2,4.1
+2025-02-02,15:30:00,BK806586,Success,C3027,Auto,Whitefield,Sanjay Nagar,7.0,3.0,0,,0,,0,,148.0,6.0,4.6,4.1
+2025-02-02,07:55:00,BK335218,Cancelled,C9662,Prime Plus,Sahakaranagar,Kudlu,,,1,Wrong Address,1,Customer related issue,1,Customer Demand,,,,
+2025-03-01,22:32:00,BK790163,Cancelled,C7052,Auto,Yelahanka,Bengaluru East,,,1,AC is not working (Only for 4-wheelers),1,More than permitted people in there,1,Customer Demand,,,,
+2025-02-05,04:38:00,BK870322,Success,C1496,Bike,Rajajinagar,Jayanagar,12.0,12.0,0,,0,,0,,52.0,16.0,4.1,4.1
+2025-02-02,07:33:00,BK814792,Success,C4813,Bike,Chandapura,Singasandra,3.0,6.0,0,,0,,0,,166.0,41.0,4.6,4.0
+2025-02-10,00:39:00,BK741582,Success,C9173,Prime Sedan,Shivajinagar,Banaswadi,6.0,10.0,0,,0,,0,,180.0,29.0,3.8,4.0
+2025-02-26,01:17:00,BK201174,Success,C6207,Prime SUV,Bellandur,Jayanagar,4.0,6.0,0,,0,,0,,262.0,13.0,4.3,4.0
+2025-02-28,22:03:00,BK190657,Cancelled,C9390,Prime Plus,Bangalore University,Vasanth Nagar,,,1,Change of plans,1,The customer was coughing/sick,1,Other Issue,,,,
+2025-02-08,00:15:00,BK247264,Success,C3061,Auto,Kammanahalli,Raghavendra Colony,3.0,3.0,0,,0,,0,,417.0,29.0,4.2,5.0
+2025-02-01,06:31:00,BK589596,Success,C3229,Bike,Kundalahalli,Bangalore Palace,4.0,9.0,0,,0,,0,,116.0,9.0,3.6,4.1
+2025-02-06,20:02:00,BK517433,Success,C8721,eBike,Sarakki,RT Nagar,9.0,6.0,0,,0,,0,,127.0,44.0,4.1,4.3
+2025-02-09,14:22:00,BK541098,Success,C4608,Bike,Marathahalli,Malleshwaram,8.0,10.0,0,,0,,0,,180.0,23.0,3.7,4.5
+2025-02-13,13:49:00,BK895592,Success,C2068,Prime Sedan,Yelahanka,Kasavanahalli,10.0,5.0,0,,0,,0,,185.0,9.0,4.3,4.4
+2025-02-13,14:09:00,BK361833,Success,C5129,eBike,Bangalore Palace,Raghavendra Colony,9.0,7.0,0,,0,,0,,96.0,40.0,4.9,3.8
+2025-02-05,20:58:00,BK246251,Success,C1119,eBike,Peenya,Yeshwanthpur,5.0,6.0,0,,0,,0,,106.0,19.0,4.9,5.0
+2025-02-09,00:27:00,BK751943,Success,C9159,eBike,HSR Layout,Kengeri,7.0,3.0,0,,0,,0,,123.0,22.0,4.3,4.9
+2025-02-09,12:03:00,BK708947,Cancelled,C8866,eBike,Yeshwanthpur,Raghavendra Colony,,,1,Driver asked to cancel,1,More than permitted people in there,1,Customer Demand,,,,
+2025-02-28,00:56:00,BK721812,Success,C7801,Mini,Sahakaranagar,Bengaluru East,3.0,9.0,0,,0,,0,,437.0,26.0,4.0,3.6
+2025-02-21,19:16:00,BK442627,Cancelled,C3203,Prime SUV,Sahakaranagar,Singasandra,,,1,Driver asked to cancel,1,Personal & Car related issues,1,Other Issue,,,,
+2025-02-15,13:24:00,BK424823,Cancelled,C6101,eBike,Vijayanagar,Singasandra,,,1,Wrong Address,1,Personal & Car related issues,1,Customer Demand,,,,
+2025-02-17,18:06:00,BK745448,Success,C4551,Mini,Rajagopal Nagar,Bellandur,10.0,7.0,0,,0,,0,,417.0,46.0,3.5,3.8
+2025-03-01,21:38:00,BK512469,Cancelled,C9123,eBike,Chandapura,Kengeri,,,1,Change of plans,1,Customer related issue,1,Customer Demand,,,,
+2025-02-01,07:09:00,BK545074,Cancelled,C8843,eBike,RT Nagar,Yelahanka,,,1,AC is not working (Only for 4-wheelers),1,Customer related issue,1,Other Issue,,,,
+2025-02-17,19:26:00,BK659659,Success,C1107,Prime Sedan,Jayanagar,MG Road,12.0,10.0,0,,0,,0,,338.0,21.0,4.0,5.0
+2025-02-23,00:00:00,BK829135,Success,C2123,Prime Sedan,Vijayanagar,HSR Layout,9.0,3.0,0,,0,,0,,214.0,44.0,4.5,3.8
+2025-02-21,14:10:00,BK771366,Success,C8072,Prime Sedan,Frazer Town,Kasavanahalli,12.0,3.0,0,,0,,0,,412.0,43.0,4.4,4.2
+2025-02-11,04:44:00,BK860216,Success,C9771,Bike,Banaswadi,Shivajinagar,12.0,9.0,0,,0,,0,,295.0,26.0,4.9,4.3
+2025-02-26,23:34:00,BK755974,Success,C1304,Prime Sedan,MG Road,Kormangala 1st Block,6.0,5.0,0,,0,,0,,316.0,40.0,3.7,4.1
+2025-02-19,22:25:00,BK652944,Success,C8342,Prime SUV,Vijayanagar,CV Raman Nagar,10.0,3.0,0,,0,,0,,295.0,43.0,4.0,4.2
+2025-02-17,19:10:00,BK797434,Cancelled,C1472,Auto,Vasanth Nagar,Yelahanka,,,1,Wrong Address,1,Personal & Car related issues,1,Customer Demand,,,,
+2025-02-16,18:10:00,BK705016,Cancelled,C9941,eBike,Kammanahalli,Rajajinagar,,,1,Driver asked to cancel,1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-03-02,03:42:00,BK526137,Success,C7303,eBike,RT Nagar,Yeshwanthpur,9.0,12.0,0,,0,,0,,92.0,24.0,4.9,4.1
+2025-02-20,11:45:00,BK333604,Success,C3194,Prime Plus,Indiranagar,Bommanahalli,4.0,4.0,0,,0,,0,,417.0,13.0,3.5,4.9
+2025-02-17,22:27:00,BK119191,Cancelled,C2010,Bike,HSR Layout,Jakkur,,,1,Driver asked to cancel,1,Personal & Car related issues,1,Other Issue,,,,
+2025-03-02,02:41:00,BK971491,Success,C6737,Mini,Vijayanagar,Bangalore University,7.0,8.0,0,,0,,0,,348.0,6.0,4.3,3.7
+2025-02-23,12:14:00,BK689077,Success,C7314,Bike,Jayanagar,Singasandra,7.0,9.0,0,,0,,0,,215.0,43.0,4.3,3.9
+2025-02-15,18:47:00,BK205581,Success,C6559,Prime Plus,Yeshwanthpur,Frazer Town,6.0,8.0,0,,0,,0,,254.0,48.0,3.9,4.3
+2025-02-27,10:56:00,BK995705,Cancelled,C3778,eBike,Yelahanka,Frazer Town,,,1,Driver is not moving towards pickup location,1,Personal & Car related issues,1,Customer Demand,,,,
+2025-03-01,12:42:00,BK541579,Success,C4984,Prime Plus,Yelahanka New Town,Jalahalli,5.0,10.0,0,,0,,0,,301.0,45.0,3.5,3.7
+2025-02-06,11:24:00,BK327231,Success,C6339,Auto,KR Puram,Shivajinagar,8.0,12.0,0,,0,,0,,187.0,49.0,3.6,4.0
+2025-02-23,05:58:00,BK251252,Success,C1245,Prime Sedan,Kudlu,Vasanth Nagar,3.0,12.0,0,,0,,0,,96.0,18.0,3.5,4.8
+2025-02-27,00:09:00,BK782285,Success,C7320,Prime Sedan,Rajajinagar,Okalipuram,3.0,10.0,0,,0,,0,,187.0,8.0,4.6,4.5
+2025-02-16,16:23:00,BK572915,Success,C4503,Mini,Whitefield,Shivajinagar,12.0,7.0,0,,0,,0,,257.0,44.0,4.9,3.7
+2025-02-12,18:29:00,BK761790,Cancelled,C8725,eBike,Rajajinagar,Jakkur,,,1,Change of plans,1,The customer was coughing/sick,1,Vehicle Breakdown,,,,
+2025-02-01,01:17:00,BK604458,Success,C5175,Prime Sedan,Koramangala,Kasavanahalli,10.0,12.0,0,,0,,0,,155.0,15.0,4.9,4.1
+2025-02-20,20:05:00,BK798848,Success,C1300,Mini,Yelahanka New Town,Bangalore Palace,9.0,12.0,0,,0,,0,,371.0,41.0,4.6,4.0
+2025-02-10,12:08:00,BK906023,Success,C5435,Prime Plus,Ramanagara,Marathahalli,11.0,3.0,0,,0,,0,,249.0,21.0,3.6,4.2
+2025-02-28,07:40:00,BK663566,Success,C7030,Prime SUV,Rajagopal Nagar,Jalahalli,9.0,11.0,0,,0,,0,,380.0,25.0,4.7,4.1
+2025-02-14,19:26:00,BK874192,Success,C1473,Bike,Okalipuram,Shivajinagar,9.0,11.0,0,,0,,0,,415.0,14.0,3.9,3.7
+2025-02-02,12:34:00,BK832790,Cancelled,C2898,Prime Plus,Bangalore University,Yeshwanthpur,,,1,Driver is not moving towards pickup location,1,The customer was coughing/sick,1,Vehicle Breakdown,,,,
+2025-02-10,19:29:00,BK888677,Cancelled,C4378,Prime Sedan,Yelahanka,Kengeri,,,1,Driver asked to cancel,1,More than permitted people in there,1,Vehicle Breakdown,,,,
+2025-02-10,05:42:00,BK188606,Cancelled,C1138,Mini,Yelahanka New Town,Sree Chowdeshwari Nagar,,,1,AC is not working (Only for 4-wheelers),1,More than permitted people in there,1,Customer Demand,,,,
+2025-03-01,17:40:00,BK490229,Success,C7362,Prime Plus,Kudlu,Chandapura,5.0,11.0,0,,0,,0,,144.0,9.0,3.7,4.8
+2025-02-20,04:01:00,BK253399,Cancelled,C8866,Prime SUV,Doddaballapur,Yelahanka New Town,,,1,AC is not working (Only for 4-wheelers),1,The customer was coughing/sick,1,Vehicle Breakdown,,,,
+2025-02-02,10:14:00,BK842942,Cancelled,C2109,eBike,Kammanahalli,MG Road,,,1,Wrong Address,1,The customer was coughing/sick,1,Customer Demand,,,,
+2025-02-21,01:44:00,BK961428,Success,C3008,eBike,Kundalahalli,KR Puram,3.0,10.0,0,,0,,0,,382.0,17.0,4.9,4.5
+2025-02-04,20:35:00,BK597959,Success,C2819,Prime Sedan,Ulsoor,MG Road,12.0,8.0,0,,0,,0,,132.0,40.0,3.7,3.5
+2025-02-15,14:27:00,BK919408,Success,C5478,Mini,Kasavanahalli,Ramanagara,5.0,6.0,0,,0,,0,,392.0,11.0,3.6,3.9
+2025-02-15,07:38:00,BK701588,Cancelled,C1102,Prime Sedan,Sarakki,MG Road,,,1,Driver asked to cancel,1,The customer was coughing/sick,1,Other Issue,,,,
+2025-02-18,03:34:00,BK970076,Cancelled,C6399,Prime SUV,Kundalahalli,Raghavendra Colony,,,1,AC is not working (Only for 4-wheelers),1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-03-02,22:21:00,BK536813,Success,C8136,Prime Sedan,Bengaluru East,Jalahalli,12.0,10.0,0,,0,,0,,322.0,28.0,4.7,4.3
+2025-02-03,15:30:00,BK930968,Success,C7086,Prime Sedan,Banashankari,Yelahanka,4.0,7.0,0,,0,,0,,228.0,39.0,3.8,3.9
+2025-02-07,22:37:00,BK408377,Cancelled,C9882,Mini,MG Road,Sarakki,,,1,Driver asked to cancel,1,Customer related issue,1,Other Issue,,,,
+2025-02-23,04:50:00,BK929927,Cancelled,C9734,Bike,Bangalore University,Jakkur,,,1,Change of plans,1,More than permitted people in there,1,Customer Demand,,,,
+2025-02-15,14:53:00,BK679062,Success,C3611,Bike,Whitefield,Bommanahalli,12.0,10.0,0,,0,,0,,283.0,48.0,4.0,3.9
+2025-02-26,04:24:00,BK568731,Success,C2856,Prime Plus,Bangalore University,Banaswadi,7.0,10.0,0,,0,,0,,139.0,43.0,4.8,3.7
+2025-02-21,15:26:00,BK627704,Success,C7111,eBike,Basavanagudi,Bannergatta,5.0,11.0,0,,0,,0,,339.0,35.0,4.0,3.9
+2025-02-02,00:27:00,BK334683,Success,C4738,Mini,Koramangala,Kudlu,10.0,5.0,0,,0,,0,,415.0,42.0,3.8,3.5
+2025-03-02,13:53:00,BK361386,Cancelled,C2215,Prime Plus,Kammanahalli,Vasanth Nagar,,,1,Change of plans,1,Customer related issue,1,Other Issue,,,,
+2025-02-26,07:27:00,BK100698,Success,C6403,Auto,Jalahalli,Yelahanka New Town,3.0,5.0,0,,0,,0,,442.0,29.0,5.0,4.9
+2025-02-06,22:48:00,BK143372,Cancelled,C9335,Auto,Bangalore University,Bangalore Palace,,,1,AC is not working (Only for 4-wheelers),1,Customer related issue,1,Customer Demand,,,,
+2025-03-02,00:00:00,BK531510,Cancelled,C6780,Prime Sedan,Bengaluru East,Bangalore Palace,,,1,AC is not working (Only for 4-wheelers),1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-02-23,21:20:00,BK747901,Cancelled,C7001,Bike,HSR Layout,Whitefield,,,1,AC is not working (Only for 4-wheelers),1,More than permitted people in there,1,Other Issue,,,,
+2025-02-25,22:55:00,BK628885,Cancelled,C8638,Mini,Bellandur,Kormangala 1st Block,,,1,Driver is not moving towards pickup location,1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-02-06,07:01:00,BK747063,Success,C1327,Prime Sedan,Doddaballapur,Rajajinagar,9.0,6.0,0,,0,,0,,264.0,46.0,3.5,3.6
+2025-02-19,11:40:00,BK561375,Cancelled,C8453,Bike,Banaswadi,Kengeri,,,1,Driver is not moving towards pickup location,1,Customer related issue,1,Customer Demand,,,,
+2025-02-23,10:11:00,BK876401,Success,C3734,Prime Plus,Sree Chowdeshwari Nagar,Bangalore East,5.0,6.0,0,,0,,0,,439.0,42.0,3.7,4.9
+2025-02-01,07:32:00,BK545676,Success,C7086,Prime Plus,Jalahalli,Frazer Town,9.0,5.0,0,,0,,0,,301.0,13.0,3.8,4.7
+2025-02-20,09:16:00,BK224029,Cancelled,C4943,Mini,Basavanagudi,Sarakki,,,1,Wrong Address,1,Personal & Car related issues,1,Other Issue,,,,
+2025-02-15,18:57:00,BK777754,Cancelled,C7765,Mini,Ulsoor,Doddaballapur,,,1,AC is not working (Only for 4-wheelers),1,More than permitted people in there,1,Other Issue,,,,
+2025-02-14,23:18:00,BK988647,Success,C4755,Auto,Bangalore Palace,Hebbal,12.0,12.0,0,,0,,0,,479.0,8.0,4.0,4.3
+2025-02-24,17:19:00,BK761997,Success,C3958,Bike,Hebbal,Bangalore University,10.0,3.0,0,,0,,0,,451.0,35.0,4.3,4.6
+2025-02-09,13:13:00,BK376577,Success,C1604,Mini,Kammanahalli,Kundalahalli,5.0,9.0,0,,0,,0,,433.0,16.0,4.0,4.1
+2025-02-06,02:23:00,BK888042,Cancelled,C5796,Prime Plus,Sanjay Nagar,Yelahanka New Town,,,1,Wrong Address,1,Customer related issue,1,Other Issue,,,,
+2025-02-27,10:11:00,BK973366,Success,C6557,Prime Plus,Banashankari,Marathahalli,6.0,5.0,0,,0,,0,,277.0,25.0,4.8,4.9
+2025-02-09,09:21:00,BK406741,Success,C1704,Bike,Singasandra,MG Road,4.0,11.0,0,,0,,0,,283.0,5.0,4.7,4.6
+2025-03-02,23:50:00,BK294882,Success,C9294,Prime Sedan,Kudlu,Bannergatta,3.0,10.0,0,,0,,0,,413.0,10.0,3.5,4.2
+2025-02-06,17:46:00,BK785161,Cancelled,C1721,eBike,MG Road,Basavanagudi,,,1,Driver is not moving towards pickup location,1,Personal & Car related issues,1,Other Issue,,,,
+2025-02-24,09:27:00,BK136720,Cancelled,C7078,Mini,Rajajinagar,Yelahanka New Town,,,1,Driver is not moving towards pickup location,1,Customer related issue,1,Vehicle Breakdown,,,,
+2025-02-10,17:10:00,BK691502,Cancelled,C1656,Auto,Kengeri,Bellandur,,,1,Change of plans,1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-02-28,15:40:00,BK149748,Success,C4367,Bike,Shivajinagar,Basavanagudi,7.0,10.0,0,,0,,0,,238.0,48.0,4.5,4.8
+2025-02-22,15:20:00,BK236456,Success,C5363,eBike,CV Raman Nagar,Rajajinagar,12.0,7.0,0,,0,,0,,441.0,31.0,3.7,3.8
+2025-02-25,17:08:00,BK329638,Cancelled,C3049,Auto,Sree Chowdeshwari Nagar,Ulsoor,,,1,Change of plans,1,Customer related issue,1,Other Issue,,,,
+2025-02-08,10:42:00,BK202653,Success,C3131,Prime Sedan,Bellandur,Jakkur,3.0,11.0,0,,0,,0,,103.0,46.0,4.3,4.6
+2025-02-26,15:54:00,BK418456,Cancelled,C5535,Auto,Doddaballapur,RT Nagar,,,1,Driver asked to cancel,1,The customer was coughing/sick,1,Vehicle Breakdown,,,,
+2025-02-18,01:08:00,BK457165,Cancelled,C6776,Mini,MG Road,Rajajinagar,,,1,Driver asked to cancel,1,Personal & Car related issues,1,Other Issue,,,,
+2025-02-07,15:01:00,BK933873,Success,C3587,Bike,MG Road,Indiranagar,10.0,12.0,0,,0,,0,,90.0,37.0,4.1,4.2
+2025-02-14,16:48:00,BK117301,Cancelled,C5374,Prime Plus,Sanjay Nagar,Sarakki,,,1,Driver asked to cancel,1,Personal & Car related issues,1,Customer Demand,,,,
+2025-02-06,15:32:00,BK545290,Cancelled,C5583,Prime Plus,Bannergatta,Kasavanahalli,,,1,Driver asked to cancel,1,The customer was coughing/sick,1,Other Issue,,,,
+2025-03-02,03:32:00,BK453486,Success,C1871,Bike,Jalahalli,Sree Chowdeshwari Nagar,3.0,3.0,0,,0,,0,,67.0,25.0,4.9,4.8
+2025-02-21,20:32:00,BK323672,Cancelled,C8116,Prime Plus,Kundalahalli,Vasanth Nagar,,,1,AC is not working (Only for 4-wheelers),1,Customer related issue,1,Other Issue,,,,
+2025-02-13,01:01:00,BK803714,Success,C5399,Bike,Bellandur,MG Road,5.0,11.0,0,,0,,0,,224.0,26.0,3.7,3.8
+2025-02-20,17:22:00,BK120112,Success,C5317,Prime Sedan,Bangalore Palace,Yelahanka,7.0,9.0,0,,0,,0,,467.0,26.0,4.3,4.8
+2025-02-20,11:04:00,BK316796,Success,C3268,Auto,Sanjay Nagar,Yelahanka,4.0,12.0,0,,0,,0,,400.0,33.0,4.7,3.9
+2025-02-16,12:44:00,BK378471,Cancelled,C1549,Auto,Bangalore East,MG Road,,,1,Driver asked to cancel,1,Customer related issue,1,Customer Demand,,,,
+2025-02-11,13:30:00,BK922924,Success,C9736,Mini,Singasandra,Chikkajala,10.0,11.0,0,,0,,0,,64.0,17.0,4.8,3.6
+2025-02-24,01:38:00,BK169536,Success,C4741,Prime Sedan,Yeshwanthpur,Sanjay Nagar,11.0,12.0,0,,0,,0,,485.0,6.0,3.9,3.5
+2025-02-06,12:31:00,BK485916,Success,C3706,Prime SUV,Malleshwaram,MG Road,4.0,9.0,0,,0,,0,,350.0,41.0,4.7,4.5
+2025-02-11,02:33:00,BK348159,Success,C7703,Prime Sedan,Okalipuram,Sanjay Nagar,7.0,9.0,0,,0,,0,,104.0,34.0,4.5,4.0
+2025-02-24,02:14:00,BK803825,Cancelled,C3114,Prime Plus,Chandapura,Sanjay Nagar,,,1,Change of plans,1,Personal & Car related issues,1,Other Issue,,,,
+2025-02-25,11:39:00,BK943659,Success,C6150,Bike,Doddaballapur,Bangalore East,6.0,4.0,0,,0,,0,,211.0,19.0,4.0,5.0
+2025-02-24,11:42:00,BK761210,Success,C8670,Auto,Basavanagudi,KR Puram,4.0,10.0,0,,0,,0,,249.0,7.0,4.7,4.1
+2025-02-16,12:52:00,BK809711,Cancelled,C1469,Mini,Sahakaranagar,Vasanth Nagar,,,1,Driver asked to cancel,1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-02-16,21:16:00,BK107938,Success,C7655,eBike,Malleshwaram,Chikkajala,12.0,5.0,0,,0,,0,,495.0,48.0,4.2,3.9
+2025-02-17,20:12:00,BK252638,Success,C6908,Mini,Jayanagar,Sanjay Nagar,3.0,11.0,0,,0,,0,,260.0,50.0,4.7,4.0
+2025-02-18,19:20:00,BK141988,Cancelled,C9264,Auto,Yeshwanthpur,Raghavendra Colony,,,1,Driver is not moving towards pickup location,1,More than permitted people in there,1,Vehicle Breakdown,,,,
+2025-02-23,18:58:00,BK145212,Success,C5124,eBike,Kundalahalli,Yeshwanthpur,9.0,7.0,0,,0,,0,,301.0,11.0,4.9,4.5
+2025-02-25,15:15:00,BK145187,Success,C3255,Prime Plus,Rajajinagar,Whitefield,3.0,4.0,0,,0,,0,,497.0,16.0,4.8,3.5
+2025-02-06,17:30:00,BK418101,Cancelled,C3132,Auto,Vasanth Nagar,Banaswadi,,,1,Driver asked to cancel,1,More than permitted people in there,1,Customer Demand,,,,
+2025-02-12,05:51:00,BK385810,Success,C9522,Prime SUV,Sanjay Nagar,Bellandur,5.0,4.0,0,,0,,0,,55.0,17.0,3.7,4.5
+2025-02-27,18:30:00,BK865911,Success,C6231,Prime SUV,Bangalore East,Bengaluru East,9.0,5.0,0,,0,,0,,335.0,29.0,4.3,4.7
+2025-02-04,15:18:00,BK416378,Success,C3709,eBike,Rajajinagar,Banashankari,7.0,11.0,0,,0,,0,,111.0,33.0,4.5,3.8
+2025-02-17,18:50:00,BK950888,Cancelled,C2690,Bike,Frazer Town,Indiranagar,,,1,Change of plans,1,The customer was coughing/sick,1,Other Issue,,,,
+2025-02-05,23:35:00,BK563431,Success,C2401,Mini,Chandapura,Ulsoor,5.0,11.0,0,,0,,0,,497.0,29.0,4.8,4.5
+2025-02-17,13:18:00,BK731935,Cancelled,C7846,Bike,Vasanth Nagar,Doddaballapur,,,1,Driver is not moving towards pickup location,1,The customer was coughing/sick,1,Customer Demand,,,,
+2025-02-22,10:46:00,BK142385,Success,C5245,Mini,Okalipuram,Kormangala 1st Block,6.0,5.0,0,,0,,0,,114.0,27.0,3.7,4.4
+2025-02-18,15:57:00,BK894341,Cancelled,C2951,Bike,Jayanagar,Peenya,,,1,AC is not working (Only for 4-wheelers),1,Customer related issue,1,Vehicle Breakdown,,,,
+2025-02-09,21:20:00,BK400961,Cancelled,C8092,Mini,Sree Chowdeshwari Nagar,Banashankari,,,1,Change of plans,1,The customer was coughing/sick,1,Other Issue,,,,
+2025-02-03,19:52:00,BK824823,Success,C2186,Prime Plus,Kammanahalli,Jakkur,10.0,9.0,0,,0,,0,,221.0,46.0,4.9,4.8
+2025-03-02,09:56:00,BK711657,Cancelled,C3821,Prime Plus,Kormangala 1st Block,Vijayanagar,,,1,Change of plans,1,More than permitted people in there,1,Vehicle Breakdown,,,,
+2025-03-02,16:00:00,BK581902,Success,C9046,Bike,Bellandur,Indiranagar,9.0,4.0,0,,0,,0,,375.0,22.0,3.7,3.7
+2025-02-12,15:44:00,BK996094,Success,C9421,Mini,Bengaluru East,Kammanahalli,11.0,8.0,0,,0,,0,,116.0,43.0,3.6,3.5
+2025-02-05,15:11:00,BK109031,Cancelled,C8835,Prime SUV,Yelahanka New Town,Basavanagudi,,,1,Driver is not moving towards pickup location,1,More than permitted people in there,1,Customer Demand,,,,
+2025-03-02,17:02:00,BK286740,Cancelled,C7557,Prime SUV,Hebbal,Basavanagudi,,,1,Driver asked to cancel,1,Customer related issue,1,Vehicle Breakdown,,,,
+2025-02-11,22:03:00,BK908830,Cancelled,C4828,Prime SUV,Okalipuram,Koramangala,,,1,Driver is not moving towards pickup location,1,More than permitted people in there,1,Other Issue,,,,
+2025-02-16,16:37:00,BK947577,Cancelled,C8265,Prime Plus,Bangalore Palace,Vijayanagar,,,1,Wrong Address,1,The customer was coughing/sick,1,Vehicle Breakdown,,,,
+2025-02-01,06:57:00,BK516950,Cancelled,C1301,Prime SUV,Vasanth Nagar,KR Puram,,,1,Driver is not moving towards pickup location,1,Personal & Car related issues,1,Customer Demand,,,,
+2025-02-18,05:16:00,BK994044,Cancelled,C3576,Prime SUV,Ulsoor,Bengaluru East,,,1,Driver is not moving towards pickup location,1,Personal & Car related issues,1,Customer Demand,,,,
+2025-02-09,05:22:00,BK668288,Success,C2762,Prime SUV,Jakkur,Bangalore University,6.0,9.0,0,,0,,0,,245.0,16.0,4.2,4.9
+2025-02-14,14:37:00,BK628372,Success,C6809,Mini,MG Road,Indiranagar,3.0,3.0,0,,0,,0,,323.0,41.0,3.7,3.6
+2025-02-07,05:37:00,BK877024,Success,C5926,Prime Sedan,Shivajinagar,Frazer Town,4.0,12.0,0,,0,,0,,89.0,41.0,4.5,4.5
+2025-02-02,18:06:00,BK242771,Success,C2075,Prime SUV,Bommanahalli,Bangalore Palace,8.0,3.0,0,,0,,0,,408.0,39.0,3.8,4.6
+2025-02-27,19:08:00,BK189937,Cancelled,C8667,Prime Sedan,MG Road,Rajajinagar,,,1,AC is not working (Only for 4-wheelers),1,Personal & Car related issues,1,Customer Demand,,,,
+2025-02-23,03:44:00,BK291902,Success,C8907,Prime Sedan,RT Nagar,Bellandur,11.0,6.0,0,,0,,0,,465.0,26.0,4.0,4.6
+2025-02-04,12:44:00,BK633469,Success,C9392,Prime Sedan,Bommanahalli,Bengaluru East,6.0,3.0,0,,0,,0,,141.0,49.0,4.3,4.8
+2025-03-01,18:43:00,BK469863,Success,C1547,eBike,Doddaballapur,Hebbal,11.0,10.0,0,,0,,0,,431.0,10.0,4.9,4.6
+2025-02-18,22:53:00,BK894403,Success,C6911,Prime Plus,Chandapura,Bangalore University,6.0,6.0,0,,0,,0,,344.0,16.0,4.7,4.9
+2025-02-14,23:10:00,BK118452,Success,C5951,Prime Plus,Chikkajala,Jakkur,8.0,12.0,0,,0,,0,,214.0,42.0,3.7,4.8
+2025-02-24,10:42:00,BK194809,Cancelled,C2763,Prime Plus,Shivajinagar,Banashankari,,,1,Driver asked to cancel,1,Customer related issue,1,Other Issue,,,,
+2025-02-21,14:04:00,BK277605,Success,C4640,eBike,Kormangala 1st Block,Yeshwanthpur,3.0,4.0,0,,0,,0,,416.0,27.0,3.8,4.5
+2025-02-11,06:54:00,BK367473,Success,C9657,Auto,Peenya,Indiranagar,12.0,8.0,0,,0,,0,,369.0,27.0,4.4,3.6
+2025-02-28,06:41:00,BK637597,Success,C4889,eBike,HSR Layout,Jalahalli,11.0,9.0,0,,0,,0,,183.0,32.0,3.7,4.6
+2025-02-01,02:42:00,BK592719,Cancelled,C9687,Mini,Sanjay Nagar,Vijayanagar,,,1,AC is not working (Only for 4-wheelers),1,The customer was coughing/sick,1,Other Issue,,,,
+2025-02-19,14:14:00,BK960369,Cancelled,C9479,Prime Plus,Yelahanka,Bangalore University,,,1,Wrong Address,1,More than permitted people in there,1,Other Issue,,,,
+2025-03-01,04:31:00,BK199753,Cancelled,C6745,Prime SUV,Kormangala 1st Block,CV Raman Nagar,,,1,Driver is not moving towards pickup location,1,More than permitted people in there,1,Other Issue,,,,
+2025-02-19,00:23:00,BK683221,Success,C9092,Bike,Sahakaranagar,Whitefield,12.0,8.0,0,,0,,0,,130.0,19.0,4.0,4.9
+2025-02-17,01:03:00,BK561636,Success,C8340,Prime Plus,Jakkur,KR Puram,5.0,10.0,0,,0,,0,,175.0,44.0,3.5,4.9
+2025-02-03,07:21:00,BK633272,Success,C8056,Prime SUV,Basavanagudi,Vasanth Nagar,8.0,8.0,0,,0,,0,,344.0,44.0,4.3,4.1
+2025-02-07,14:44:00,BK335209,Success,C6726,Prime Sedan,Sarakki,Banaswadi,9.0,12.0,0,,0,,0,,359.0,27.0,4.1,3.8
+2025-03-02,09:26:00,BK721153,Success,C9695,Prime Sedan,Okalipuram,MG Road,4.0,8.0,0,,0,,0,,230.0,5.0,3.6,4.8
+2025-02-04,10:49:00,BK522994,Success,C4922,Bike,Hebbal,Chikkajala,3.0,12.0,0,,0,,0,,108.0,41.0,4.0,4.6
+2025-02-08,07:20:00,BK739660,Cancelled,C8238,Auto,MG Road,Bommanahalli,,,1,AC is not working (Only for 4-wheelers),1,The customer was coughing/sick,1,Vehicle Breakdown,,,,
+2025-02-03,06:13:00,BK525441,Success,C6731,Prime Sedan,Whitefield,Singasandra,5.0,6.0,0,,0,,0,,473.0,23.0,3.9,4.0
+2025-02-03,08:40:00,BK461743,Success,C6972,Bike,Singasandra,Jakkur,3.0,11.0,0,,0,,0,,236.0,6.0,3.8,3.6
+2025-02-04,01:17:00,BK266302,Cancelled,C2554,Prime Sedan,Bengaluru East,CV Raman Nagar,,,1,Change of plans,1,Personal & Car related issues,1,Other Issue,,,,
+2025-02-12,05:29:00,BK764529,Cancelled,C5309,eBike,Peenya,Kasavanahalli,,,1,Driver is not moving towards pickup location,1,Customer related issue,1,Vehicle Breakdown,,,,
+2025-02-11,02:51:00,BK335034,Cancelled,C2854,Bike,Doddaballapur,Yeshwanthpur,,,1,Change of plans,1,The customer was coughing/sick,1,Other Issue,,,,
+2025-02-25,18:01:00,BK781644,Cancelled,C4833,Prime Plus,Ramanagara,Jalahalli,,,1,Driver asked to cancel,1,The customer was coughing/sick,1,Customer Demand,,,,
+2025-02-18,14:54:00,BK721032,Success,C6694,Prime Plus,Rajagopal Nagar,Jayanagar,12.0,8.0,0,,0,,0,,226.0,23.0,3.8,4.8
+2025-02-24,13:43:00,BK603005,Success,C3317,Bike,Chandapura,Bommanahalli,7.0,7.0,0,,0,,0,,65.0,37.0,4.1,4.7
+2025-02-07,23:24:00,BK709864,Success,C1443,Prime Plus,Sree Chowdeshwari Nagar,Indiranagar,9.0,5.0,0,,0,,0,,417.0,43.0,4.6,4.6
+2025-02-21,10:34:00,BK462769,Success,C4254,Prime Plus,Chandapura,Sanjay Nagar,8.0,6.0,0,,0,,0,,438.0,37.0,4.8,4.7
+2025-02-05,11:37:00,BK425032,Success,C8694,Auto,Jayanagar,Vijayanagar,3.0,10.0,0,,0,,0,,411.0,46.0,4.9,4.6
+2025-02-13,09:58:00,BK315873,Cancelled,C6228,Mini,Doddaballapur,Sarakki,,,1,AC is not working (Only for 4-wheelers),1,Personal & Car related issues,1,Other Issue,,,,
+2025-02-22,13:08:00,BK834577,Cancelled,C8786,Prime SUV,Jakkur,Yeshwanthpur,,,1,Change of plans,1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-02-19,09:57:00,BK809200,Success,C5911,Auto,KR Puram,Ulsoor,10.0,8.0,0,,0,,0,,447.0,29.0,4.9,4.0
+2025-02-27,02:22:00,BK604419,Success,C9676,Bike,Vijayanagar,Chandapura,5.0,3.0,0,,0,,0,,113.0,28.0,4.6,4.2
+2025-02-18,00:23:00,BK255818,Cancelled,C5005,Mini,Frazer Town,Jakkur,,,1,Driver is not moving towards pickup location,1,The customer was coughing/sick,1,Other Issue,,,,
+2025-02-13,11:45:00,BK658331,Success,C6535,Prime Sedan,Okalipuram,Jakkur,3.0,9.0,0,,0,,0,,442.0,29.0,4.6,4.6
+2025-02-17,04:40:00,BK123937,Success,C4636,Auto,Kudlu,Yelahanka New Town,4.0,6.0,0,,0,,0,,147.0,47.0,4.0,4.1
+2025-02-07,10:15:00,BK937920,Cancelled,C3255,Mini,Bangalore University,Jalahalli,,,1,Wrong Address,1,Customer related issue,1,Customer Demand,,,,
+2025-02-25,21:36:00,BK870121,Success,C4515,Prime Sedan,Yelahanka New Town,Basavanagudi,4.0,12.0,0,,0,,0,,126.0,45.0,4.3,4.9
+2025-02-17,19:34:00,BK294039,Success,C2729,Prime Plus,Vasanth Nagar,Hebbal,9.0,9.0,0,,0,,0,,458.0,29.0,3.9,4.1
+2025-02-03,10:18:00,BK415972,Success,C8408,Bike,Peenya,Singasandra,4.0,4.0,0,,0,,0,,347.0,47.0,4.4,4.9
+2025-02-18,13:55:00,BK946799,Success,C7687,Auto,Bangalore East,MG Road,11.0,5.0,0,,0,,0,,195.0,23.0,3.5,4.9
+2025-02-17,05:30:00,BK712733,Success,C1434,Mini,Sree Chowdeshwari Nagar,Jalahalli,12.0,8.0,0,,0,,0,,388.0,41.0,5.0,4.6
+2025-02-05,17:37:00,BK512527,Success,C8131,eBike,Okalipuram,Bengaluru East,4.0,12.0,0,,0,,0,,306.0,45.0,4.6,3.8
+2025-02-02,19:48:00,BK765188,Cancelled,C6378,Bike,Kammanahalli,Sahakaranagar,,,1,Driver is not moving towards pickup location,1,Customer related issue,1,Vehicle Breakdown,,,,
+2025-03-01,20:49:00,BK907206,Cancelled,C4364,Auto,Marathahalli,Singasandra,,,1,Driver asked to cancel,1,More than permitted people in there,1,Other Issue,,,,
+2025-02-17,20:41:00,BK495717,Cancelled,C1377,Bike,Yeshwanthpur,Kasavanahalli,,,1,Wrong Address,1,Personal & Car related issues,1,Customer Demand,,,,
+2025-02-12,21:19:00,BK882473,Success,C6501,Bike,Sree Chowdeshwari Nagar,Bengaluru East,5.0,11.0,0,,0,,0,,93.0,34.0,5.0,3.6
+2025-02-09,09:30:00,BK364044,Success,C6738,Bike,Bangalore Palace,Bangalore University,4.0,10.0,0,,0,,0,,272.0,21.0,3.6,4.4
+2025-02-13,04:25:00,BK714261,Success,C2209,Prime Sedan,Malleshwaram,Sahakaranagar,7.0,5.0,0,,0,,0,,425.0,24.0,4.6,3.6
+2025-02-02,10:18:00,BK496590,Success,C5136,Bike,KR Puram,Yelahanka,3.0,10.0,0,,0,,0,,442.0,48.0,4.8,3.9
+2025-02-26,05:03:00,BK170771,Success,C5722,Bike,Kasavanahalli,HSR Layout,5.0,10.0,0,,0,,0,,216.0,24.0,4.7,4.8
+2025-02-08,00:49:00,BK150735,Success,C2799,Prime Plus,Bangalore East,Frazer Town,12.0,3.0,0,,0,,0,,477.0,7.0,4.4,4.2
+2025-02-24,19:21:00,BK421712,Cancelled,C5903,Prime SUV,Chandapura,KR Puram,,,1,Change of plans,1,The customer was coughing/sick,1,Vehicle Breakdown,,,,
+2025-02-07,10:18:00,BK933033,Success,C4514,Prime SUV,Sanjay Nagar,Malleshwaram,11.0,8.0,0,,0,,0,,197.0,25.0,4.2,4.6
+2025-02-22,04:38:00,BK341518,Success,C5806,Bike,Sree Chowdeshwari Nagar,Bangalore Palace,12.0,5.0,0,,0,,0,,169.0,24.0,4.4,4.9
+2025-02-27,18:15:00,BK221593,Success,C3255,eBike,RT Nagar,Chikkajala,3.0,11.0,0,,0,,0,,130.0,16.0,4.0,4.1
+2025-02-07,01:14:00,BK186326,Success,C7705,Auto,Bangalore East,Jayanagar,9.0,10.0,0,,0,,0,,429.0,47.0,4.9,4.6
+2025-02-05,02:50:00,BK311893,Cancelled,C2512,Mini,Jayanagar,RT Nagar,,,1,AC is not working (Only for 4-wheelers),1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-02-03,23:41:00,BK320422,Cancelled,C7770,Prime SUV,Sahakaranagar,Marathahalli,,,1,Wrong Address,1,Customer related issue,1,Vehicle Breakdown,,,,
+2025-02-10,05:24:00,BK492012,Cancelled,C2401,Bike,Ulsoor,MG Road,,,1,Driver asked to cancel,1,Customer related issue,1,Vehicle Breakdown,,,,
+2025-02-04,20:35:00,BK433502,Cancelled,C2246,Prime SUV,CV Raman Nagar,Peenya,,,1,Driver is not moving towards pickup location,1,More than permitted people in there,1,Customer Demand,,,,
+2025-02-05,14:34:00,BK626544,Cancelled,C1618,eBike,Peenya,Sahakaranagar,,,1,Change of plans,1,Customer related issue,1,Customer Demand,,,,
+2025-02-19,16:22:00,BK709026,Cancelled,C8160,Prime Sedan,Kudlu,Doddaballapur,,,1,Driver asked to cancel,1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-02-22,11:47:00,BK866579,Success,C7816,Mini,Chikkajala,Ramanagara,4.0,9.0,0,,0,,0,,380.0,14.0,4.8,4.7
+2025-02-11,19:17:00,BK784354,Cancelled,C9071,Prime Plus,Bengaluru East,KR Puram,,,1,Driver is not moving towards pickup location,1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-02-11,13:10:00,BK478086,Cancelled,C1400,Mini,Yelahanka New Town,Marathahalli,,,1,Wrong Address,1,Personal & Car related issues,1,Other Issue,,,,
+2025-02-18,01:50:00,BK917540,Success,C8470,Prime Sedan,Sarakki,Ulsoor,6.0,3.0,0,,0,,0,,404.0,13.0,4.4,4.2
+2025-02-21,11:13:00,BK166532,Cancelled,C4711,Bike,Bangalore Palace,Chandapura,,,1,Change of plans,1,Personal & Car related issues,1,Customer Demand,,,,
+2025-02-21,11:30:00,BK405542,Cancelled,C1279,Prime Sedan,Bellandur,Sahakaranagar,,,1,Driver asked to cancel,1,Personal & Car related issues,1,Customer Demand,,,,
+2025-02-26,12:14:00,BK164087,Success,C6647,Auto,MG Road,Koramangala,11.0,3.0,0,,0,,0,,323.0,22.0,4.0,3.9
+2025-02-28,09:34:00,BK576181,Success,C5799,Prime Plus,Sree Chowdeshwari Nagar,Whitefield,11.0,10.0,0,,0,,0,,133.0,48.0,4.0,4.6
+2025-02-11,13:08:00,BK391115,Cancelled,C9653,eBike,Rajajinagar,HSR Layout,,,1,Wrong Address,1,Personal & Car related issues,1,Customer Demand,,,,
+2025-02-22,05:23:00,BK256713,Success,C9424,Bike,Bellandur,Koramangala,4.0,4.0,0,,0,,0,,463.0,28.0,4.3,4.0
+2025-02-04,16:44:00,BK909915,Cancelled,C3729,eBike,Raghavendra Colony,Bangalore University,,,1,Driver is not moving towards pickup location,1,More than permitted people in there,1,Vehicle Breakdown,,,,
+2025-02-26,07:06:00,BK160154,Success,C6722,Auto,Bengaluru East,MG Road,8.0,6.0,0,,0,,0,,354.0,25.0,4.8,4.9
+2025-02-26,02:52:00,BK951295,Cancelled,C9983,Prime Sedan,Vijayanagar,MG Road,,,1,Change of plans,1,Personal & Car related issues,1,Customer Demand,,,,
+2025-03-02,22:47:00,BK972739,Cancelled,C1128,eBike,Rajajinagar,Bommanahalli,,,1,Wrong Address,1,More than permitted people in there,1,Vehicle Breakdown,,,,
+2025-03-01,16:01:00,BK937223,Success,C5045,Prime Sedan,Frazer Town,Hebbal,10.0,4.0,0,,0,,0,,417.0,19.0,3.9,4.2
+2025-02-16,08:31:00,BK232750,Success,C8038,Prime Plus,Bangalore Palace,KR Puram,6.0,11.0,0,,0,,0,,168.0,10.0,4.3,4.3
+2025-03-01,18:13:00,BK992899,Success,C7231,eBike,Frazer Town,Jakkur,12.0,9.0,0,,0,,0,,493.0,16.0,3.8,3.8
+2025-02-28,15:13:00,BK662385,Success,C5557,Prime SUV,Kundalahalli,Jayanagar,12.0,12.0,0,,0,,0,,334.0,19.0,4.6,4.1
+2025-02-17,11:39:00,BK218651,Success,C4475,Prime Plus,Vasanth Nagar,Kengeri,7.0,9.0,0,,0,,0,,315.0,5.0,3.9,3.5
+2025-02-02,19:27:00,BK426204,Success,C3412,Prime SUV,Ulsoor,Doddaballapur,5.0,3.0,0,,0,,0,,176.0,49.0,4.9,4.9
+2025-02-11,13:38:00,BK710800,Success,C3066,Prime Plus,Marathahalli,Vijayanagar,8.0,11.0,0,,0,,0,,316.0,5.0,4.9,4.5
+2025-02-17,18:46:00,BK619684,Success,C6780,Auto,Hebbal,Sarakki,6.0,12.0,0,,0,,0,,280.0,6.0,5.0,3.7
+2025-02-03,13:02:00,BK958174,Success,C5715,Bike,Banaswadi,Kasavanahalli,12.0,7.0,0,,0,,0,,236.0,33.0,3.7,4.1
+2025-02-14,00:04:00,BK559708,Cancelled,C1835,Prime Sedan,Bangalore Palace,Yelahanka,,,1,Change of plans,1,The customer was coughing/sick,1,Customer Demand,,,,
+2025-02-03,17:58:00,BK438907,Success,C9434,eBike,Yeshwanthpur,Okalipuram,7.0,7.0,0,,0,,0,,416.0,17.0,3.9,4.3
+2025-02-06,12:01:00,BK492523,Cancelled,C2444,Bike,Bangalore University,Kasavanahalli,,,1,Wrong Address,1,Customer related issue,1,Other Issue,,,,
+2025-02-22,15:35:00,BK897347,Cancelled,C5593,Bike,Koramangala,Okalipuram,,,1,Change of plans,1,More than permitted people in there,1,Vehicle Breakdown,,,,
+2025-02-12,07:43:00,BK409637,Success,C3304,eBike,Malleshwaram,Hebbal,12.0,3.0,0,,0,,0,,481.0,22.0,4.6,4.5
+2025-02-08,08:06:00,BK941813,Success,C7491,Mini,Yeshwanthpur,Indiranagar,8.0,10.0,0,,0,,0,,178.0,49.0,3.9,4.4
+2025-02-11,02:06:00,BK335012,Success,C4541,Bike,KR Puram,Bangalore East,6.0,12.0,0,,0,,0,,261.0,25.0,4.2,3.7
+2025-02-02,00:37:00,BK981313,Success,C7842,Prime Sedan,Rajajinagar,Frazer Town,3.0,12.0,0,,0,,0,,442.0,34.0,4.7,3.9
+2025-02-14,23:33:00,BK799603,Cancelled,C2169,Prime Sedan,Chikkajala,Jalahalli,,,1,Wrong Address,1,The customer was coughing/sick,1,Customer Demand,,,,
+2025-02-28,20:41:00,BK762869,Success,C6612,Prime Plus,Bangalore Palace,Vijayanagar,5.0,4.0,0,,0,,0,,424.0,20.0,4.5,4.6
+2025-02-19,01:54:00,BK439625,Cancelled,C4173,Auto,Sahakaranagar,Ulsoor,,,1,Change of plans,1,Customer related issue,1,Customer Demand,,,,
+2025-03-02,20:56:00,BK797845,Cancelled,C9866,Prime SUV,Kundalahalli,Marathahalli,,,1,Wrong Address,1,Customer related issue,1,Vehicle Breakdown,,,,
+2025-02-28,11:51:00,BK991892,Success,C8673,Prime Sedan,Vijayanagar,Ulsoor,7.0,5.0,0,,0,,0,,98.0,50.0,4.6,4.9
+2025-02-22,02:35:00,BK316749,Cancelled,C5588,Prime SUV,Bengaluru East,Bannergatta,,,1,Driver is not moving towards pickup location,1,Customer related issue,1,Customer Demand,,,,
+2025-02-12,08:58:00,BK141809,Success,C5652,Prime SUV,Whitefield,Chandapura,5.0,10.0,0,,0,,0,,407.0,13.0,4.4,4.7
+2025-02-18,00:53:00,BK151747,Success,C5313,Mini,Jakkur,Banaswadi,4.0,9.0,0,,0,,0,,319.0,9.0,3.8,3.6
+2025-02-12,17:58:00,BK750143,Success,C8590,Prime Sedan,MG Road,Kormangala 1st Block,11.0,9.0,0,,0,,0,,342.0,9.0,4.2,3.8
+2025-02-18,05:35:00,BK342509,Success,C2961,Bike,Bannergatta,Sree Chowdeshwari Nagar,5.0,11.0,0,,0,,0,,113.0,6.0,3.9,3.8
+2025-02-25,21:34:00,BK704539,Success,C2997,eBike,Kengeri,Bommanahalli,9.0,10.0,0,,0,,0,,235.0,32.0,4.5,3.9
+2025-02-21,23:34:00,BK521896,Success,C2941,Auto,Banaswadi,Vijayanagar,11.0,12.0,0,,0,,0,,481.0,25.0,4.3,3.6
+2025-02-08,05:48:00,BK883946,Success,C5866,Prime Plus,Ulsoor,Sree Chowdeshwari Nagar,8.0,6.0,0,,0,,0,,399.0,9.0,4.1,4.1
+2025-02-05,08:07:00,BK103682,Cancelled,C1771,Mini,Kammanahalli,Rajagopal Nagar,,,1,Wrong Address,1,The customer was coughing/sick,1,Vehicle Breakdown,,,,
+2025-02-10,05:33:00,BK321550,Cancelled,C2090,Auto,Okalipuram,Frazer Town,,,1,Change of plans,1,Customer related issue,1,Vehicle Breakdown,,,,
+2025-02-24,20:23:00,BK751896,Success,C2991,Mini,Banaswadi,Sree Chowdeshwari Nagar,4.0,5.0,0,,0,,0,,190.0,42.0,4.6,4.9
+2025-02-04,13:48:00,BK709427,Success,C4065,Mini,Kormangala 1st Block,Bangalore East,5.0,3.0,0,,0,,0,,488.0,25.0,3.6,3.8
+2025-02-06,20:14:00,BK441950,Cancelled,C1707,Prime Plus,Bellandur,Banaswadi,,,1,Change of plans,1,Customer related issue,1,Other Issue,,,,
+2025-02-01,20:21:00,BK416522,Cancelled,C1162,Prime Plus,Kammanahalli,Jalahalli,,,1,Change of plans,1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-02-18,01:17:00,BK836712,Success,C2658,Mini,Raghavendra Colony,Kengeri,10.0,5.0,0,,0,,0,,300.0,8.0,3.9,4.5
+2025-02-28,07:33:00,BK551793,Success,C1569,Prime Sedan,Raghavendra Colony,RT Nagar,8.0,10.0,0,,0,,0,,358.0,16.0,3.6,4.1
+2025-02-03,08:52:00,BK784876,Cancelled,C2114,Mini,Bangalore East,Indiranagar,,,1,Driver asked to cancel,1,More than permitted people in there,1,Vehicle Breakdown,,,,
+2025-02-10,11:00:00,BK783743,Success,C7864,Mini,Banaswadi,Jayanagar,12.0,4.0,0,,0,,0,,285.0,50.0,4.3,4.4
+2025-03-01,12:11:00,BK213340,Success,C7367,Auto,Bangalore University,Bangalore East,8.0,7.0,0,,0,,0,,489.0,42.0,4.2,4.3
+2025-02-24,20:10:00,BK257429,Cancelled,C8543,Bike,Doddaballapur,Bangalore Palace,,,1,Driver asked to cancel,1,The customer was coughing/sick,1,Other Issue,,,,
+2025-02-15,01:06:00,BK782904,Success,C7235,Prime SUV,Bengaluru East,Yelahanka,8.0,11.0,0,,0,,0,,472.0,41.0,3.9,3.6
+2025-02-17,09:02:00,BK385269,Cancelled,C6372,Prime Plus,Sahakaranagar,Jalahalli,,,1,Change of plans,1,More than permitted people in there,1,Vehicle Breakdown,,,,
+2025-02-07,18:31:00,BK332430,Success,C4714,Prime Plus,Chandapura,Singasandra,5.0,11.0,0,,0,,0,,434.0,46.0,3.5,4.3
+2025-02-15,21:04:00,BK797806,Cancelled,C7456,Prime Sedan,Chandapura,Kammanahalli,,,1,Wrong Address,1,The customer was coughing/sick,1,Customer Demand,,,,
+2025-02-22,18:43:00,BK251527,Success,C2269,Prime Plus,Malleshwaram,Singasandra,12.0,12.0,0,,0,,0,,439.0,18.0,4.7,4.2
+2025-02-20,03:41:00,BK553886,Cancelled,C9064,Prime SUV,Banaswadi,Bannergatta,,,1,Change of plans,1,More than permitted people in there,1,Vehicle Breakdown,,,,
+2025-02-22,21:52:00,BK934499,Success,C8968,Prime Plus,Sanjay Nagar,Doddaballapur,3.0,6.0,0,,0,,0,,465.0,41.0,4.5,4.6
+2025-03-02,22:42:00,BK496944,Cancelled,C3926,Mini,Peenya,Kasavanahalli,,,1,AC is not working (Only for 4-wheelers),1,Customer related issue,1,Vehicle Breakdown,,,,
+2025-02-02,17:41:00,BK693048,Success,C3616,Prime Sedan,CV Raman Nagar,Kudlu,12.0,5.0,0,,0,,0,,355.0,12.0,4.1,5.0
+2025-02-25,01:35:00,BK253447,Success,C7086,Prime Sedan,Kasavanahalli,Bannergatta,12.0,7.0,0,,0,,0,,402.0,10.0,3.5,4.5
+2025-02-18,05:49:00,BK296469,Cancelled,C1641,Prime Sedan,Whitefield,Raghavendra Colony,,,1,AC is not working (Only for 4-wheelers),1,Personal & Car related issues,1,Customer Demand,,,,
+2025-02-06,09:44:00,BK977760,Cancelled,C3598,Prime Plus,KR Puram,Kudlu,,,1,AC is not working (Only for 4-wheelers),1,Personal & Car related issues,1,Other Issue,,,,
+2025-03-02,07:23:00,BK954722,Success,C9170,Prime Plus,Kasavanahalli,Indiranagar,3.0,11.0,0,,0,,0,,153.0,22.0,4.7,4.8
+2025-02-12,07:43:00,BK624958,Success,C8829,Bike,Bengaluru East,Bangalore Palace,3.0,10.0,0,,0,,0,,455.0,41.0,4.3,3.6
+2025-02-11,17:47:00,BK520754,Cancelled,C7290,Bike,Frazer Town,CV Raman Nagar,,,1,Change of plans,1,Personal & Car related issues,1,Other Issue,,,,
+2025-02-02,02:01:00,BK396558,Success,C1556,Mini,Rajagopal Nagar,Sahakaranagar,9.0,12.0,0,,0,,0,,325.0,31.0,4.0,3.5
+2025-02-21,03:12:00,BK186925,Cancelled,C8212,Mini,Raghavendra Colony,RT Nagar,,,1,Wrong Address,1,The customer was coughing/sick,1,Vehicle Breakdown,,,,
+2025-02-03,13:04:00,BK418921,Success,C5770,Prime Plus,Bengaluru East,Singasandra,9.0,12.0,0,,0,,0,,310.0,32.0,3.9,4.5
+2025-02-20,18:43:00,BK358610,Cancelled,C3031,Prime SUV,Chikkajala,Marathahalli,,,1,AC is not working (Only for 4-wheelers),1,The customer was coughing/sick,1,Other Issue,,,,
+2025-02-14,00:30:00,BK454113,Success,C7824,Bike,Ulsoor,Bommanahalli,6.0,9.0,0,,0,,0,,328.0,47.0,3.7,4.9
+2025-02-19,04:21:00,BK546644,Cancelled,C8180,Auto,Kundalahalli,Yeshwanthpur,,,1,Driver is not moving towards pickup location,1,The customer was coughing/sick,1,Customer Demand,,,,
+2025-02-02,01:36:00,BK666305,Success,C3047,Prime SUV,Frazer Town,CV Raman Nagar,10.0,9.0,0,,0,,0,,178.0,33.0,4.3,4.8
+2025-02-19,13:17:00,BK187911,Success,C4606,Bike,Bengaluru East,Kudlu,5.0,3.0,0,,0,,0,,409.0,44.0,3.9,3.7
+2025-02-21,16:26:00,BK226417,Success,C3145,eBike,Indiranagar,KR Puram,4.0,3.0,0,,0,,0,,198.0,5.0,4.1,4.3
+2025-02-05,15:05:00,BK494939,Success,C3975,Auto,HSR Layout,Okalipuram,3.0,8.0,0,,0,,0,,249.0,12.0,3.8,3.6
+2025-02-18,15:20:00,BK820509,Cancelled,C2970,Prime Plus,Indiranagar,Bellandur,,,1,Wrong Address,1,Personal & Car related issues,1,Customer Demand,,,,
+2025-02-25,22:16:00,BK849618,Success,C8212,Prime SUV,Chikkajala,HSR Layout,12.0,5.0,0,,0,,0,,190.0,41.0,3.8,4.9
+2025-02-16,12:52:00,BK848352,Cancelled,C1504,Mini,Bommanahalli,Malleshwaram,,,1,Driver asked to cancel,1,The customer was coughing/sick,1,Other Issue,,,,
+2025-02-10,16:40:00,BK393833,Success,C4601,Prime Sedan,Vijayanagar,Yeshwanthpur,6.0,7.0,0,,0,,0,,168.0,21.0,4.6,5.0
+2025-02-01,05:08:00,BK388552,Success,C7405,Prime Plus,Jakkur,Whitefield,6.0,9.0,0,,0,,0,,184.0,48.0,4.6,4.2
+2025-02-17,16:35:00,BK471091,Cancelled,C2730,Prime SUV,Kormangala 1st Block,Sahakaranagar,,,1,AC is not working (Only for 4-wheelers),1,More than permitted people in there,1,Customer Demand,,,,
+2025-02-12,13:39:00,BK287370,Success,C4108,Auto,Doddaballapur,Bellandur,6.0,6.0,0,,0,,0,,306.0,19.0,4.1,5.0
+2025-02-18,04:54:00,BK744913,Cancelled,C9819,Prime SUV,Kammanahalli,MG Road,,,1,AC is not working (Only for 4-wheelers),1,Personal & Car related issues,1,Other Issue,,,,
+2025-02-08,03:31:00,BK755820,Cancelled,C1042,Prime Sedan,Peenya,Okalipuram,,,1,Driver is not moving towards pickup location,1,Customer related issue,1,Customer Demand,,,,
+2025-02-09,22:29:00,BK924718,Cancelled,C8126,Mini,Vasanth Nagar,Kormangala 1st Block,,,1,Driver is not moving towards pickup location,1,Personal & Car related issues,1,Other Issue,,,,
+2025-02-16,09:34:00,BK644513,Cancelled,C2292,eBike,Koramangala,Banaswadi,,,1,Change of plans,1,The customer was coughing/sick,1,Vehicle Breakdown,,,,
+2025-02-02,23:13:00,BK379781,Success,C7878,eBike,MG Road,Yelahanka,12.0,10.0,0,,0,,0,,483.0,46.0,4.2,4.7
+2025-02-08,05:13:00,BK489022,Success,C7612,Auto,Raghavendra Colony,Kudlu,7.0,10.0,0,,0,,0,,91.0,21.0,4.2,4.3
+2025-02-01,13:49:00,BK453825,Cancelled,C6991,Prime Sedan,Jalahalli,Bannergatta,,,1,Driver asked to cancel,1,The customer was coughing/sick,1,Other Issue,,,,
+2025-02-08,02:37:00,BK725855,Cancelled,C4727,Prime SUV,Vijayanagar,Vasanth Nagar,,,1,Change of plans,1,Customer related issue,1,Other Issue,,,,
+2025-02-20,15:41:00,BK174914,Success,C6946,Prime Plus,Vijayanagar,Sarakki,8.0,7.0,0,,0,,0,,193.0,12.0,4.0,4.2
+2025-03-01,04:25:00,BK608532,Cancelled,C2745,Auto,MG Road,Chandapura,,,1,Wrong Address,1,Personal & Car related issues,1,Other Issue,,,,
+2025-02-04,17:40:00,BK194594,Success,C7171,Bike,Whitefield,Doddaballapur,3.0,9.0,0,,0,,0,,261.0,20.0,4.1,3.9
+2025-02-09,23:43:00,BK934120,Cancelled,C9159,Prime Sedan,Sanjay Nagar,Whitefield,,,1,Change of plans,1,Customer related issue,1,Vehicle Breakdown,,,,
+2025-02-08,12:41:00,BK576630,Cancelled,C3140,Prime SUV,Kengeri,Sarakki,,,1,Wrong Address,1,Customer related issue,1,Other Issue,,,,
+2025-02-25,22:30:00,BK372983,Success,C1129,Prime Sedan,Shivajinagar,Banaswadi,7.0,4.0,0,,0,,0,,119.0,22.0,4.5,3.6
+2025-02-24,20:03:00,BK221668,Success,C2498,Prime SUV,Yelahanka New Town,Yeshwanthpur,9.0,6.0,0,,0,,0,,401.0,8.0,3.9,4.9
+2025-02-01,12:00:00,BK485773,Success,C3258,Prime SUV,MG Road,Singasandra,8.0,5.0,0,,0,,0,,494.0,45.0,4.1,4.4
+2025-02-17,12:41:00,BK346762,Success,C5288,Prime Plus,Kudlu,Bannergatta,7.0,10.0,0,,0,,0,,495.0,36.0,4.6,5.0
+2025-02-20,00:42:00,BK222485,Cancelled,C4449,Bike,Jayanagar,Kudlu,,,1,Change of plans,1,Personal & Car related issues,1,Customer Demand,,,,
+2025-02-23,11:35:00,BK770692,Cancelled,C6760,Auto,Koramangala,Bellandur,,,1,Wrong Address,1,The customer was coughing/sick,1,Customer Demand,,,,
+2025-02-19,16:33:00,BK956001,Success,C6846,Mini,Kormangala 1st Block,Kasavanahalli,11.0,7.0,0,,0,,0,,407.0,7.0,4.8,3.8
+2025-02-11,23:59:00,BK384064,Success,C2044,Prime Plus,Rajagopal Nagar,Sahakaranagar,9.0,12.0,0,,0,,0,,187.0,34.0,4.4,3.8
+2025-02-13,09:29:00,BK772686,Cancelled,C1171,Prime Sedan,Peenya,Kudlu,,,1,Change of plans,1,Customer related issue,1,Other Issue,,,,
+2025-02-26,01:18:00,BK961776,Success,C8659,Prime Plus,Chandapura,Bangalore Palace,9.0,12.0,0,,0,,0,,205.0,12.0,4.1,3.7
+2025-02-17,03:34:00,BK521239,Cancelled,C1412,Prime SUV,Sahakaranagar,Bangalore East,,,1,Driver is not moving towards pickup location,1,Customer related issue,1,Customer Demand,,,,
+2025-02-05,13:06:00,BK368329,Success,C1836,Bike,Sahakaranagar,Malleshwaram,9.0,8.0,0,,0,,0,,489.0,19.0,4.1,4.5
+2025-02-22,02:40:00,BK196607,Cancelled,C7444,eBike,Shivajinagar,Yelahanka,,,1,Wrong Address,1,More than permitted people in there,1,Other Issue,,,,
+2025-02-10,00:56:00,BK964171,Cancelled,C2100,Bike,Vijayanagar,Jakkur,,,1,AC is not working (Only for 4-wheelers),1,More than permitted people in there,1,Customer Demand,,,,
+2025-02-05,10:05:00,BK307340,Success,C4171,Prime Plus,Chandapura,Frazer Town,6.0,11.0,0,,0,,0,,465.0,23.0,4.9,5.0
+2025-02-25,04:43:00,BK534150,Success,C2448,Bike,Marathahalli,Rajagopal Nagar,5.0,10.0,0,,0,,0,,355.0,33.0,4.8,4.1
+2025-02-05,14:52:00,BK433132,Success,C6491,eBike,Yelahanka New Town,Banashankari,5.0,10.0,0,,0,,0,,387.0,15.0,3.8,4.3
+2025-02-05,21:12:00,BK643998,Success,C8663,Prime Plus,Rajajinagar,Bangalore East,5.0,6.0,0,,0,,0,,231.0,15.0,4.8,4.1
+2025-02-19,23:33:00,BK397597,Cancelled,C9623,Auto,Jakkur,KR Puram,,,1,AC is not working (Only for 4-wheelers),1,Personal & Car related issues,1,Customer Demand,,,,
+2025-02-01,18:19:00,BK496427,Cancelled,C1895,Bike,Shivajinagar,Ramanagara,,,1,Driver asked to cancel,1,Customer related issue,1,Customer Demand,,,,
+2025-02-09,01:17:00,BK573594,Success,C9160,Prime SUV,Banashankari,Kundalahalli,12.0,6.0,0,,0,,0,,346.0,27.0,4.4,4.8
+2025-02-15,15:47:00,BK583488,Success,C9164,Mini,Jakkur,Kammanahalli,4.0,5.0,0,,0,,0,,393.0,25.0,4.9,4.6
+2025-02-14,05:07:00,BK797035,Success,C8637,Prime Sedan,Banashankari,Rajagopal Nagar,9.0,8.0,0,,0,,0,,373.0,35.0,4.7,4.6
+2025-02-25,22:05:00,BK670367,Success,C5349,Bike,Shivajinagar,Raghavendra Colony,6.0,8.0,0,,0,,0,,350.0,13.0,4.6,4.1
+2025-02-09,19:57:00,BK104490,Cancelled,C8200,Prime Sedan,Indiranagar,Peenya,,,1,Driver asked to cancel,1,Customer related issue,1,Other Issue,,,,
+2025-02-24,13:24:00,BK326695,Success,C4646,eBike,Sarakki,Peenya,5.0,5.0,0,,0,,0,,111.0,38.0,3.9,4.8
+2025-02-19,07:41:00,BK482633,Success,C3373,Prime Plus,MG Road,Bengaluru East,4.0,11.0,0,,0,,0,,377.0,8.0,3.6,4.4
+2025-02-28,23:10:00,BK314957,Success,C8954,Prime Plus,RT Nagar,Yelahanka New Town,4.0,10.0,0,,0,,0,,291.0,13.0,4.6,3.8
+2025-02-23,18:25:00,BK596632,Success,C2457,Auto,Bellandur,Banaswadi,7.0,3.0,0,,0,,0,,230.0,17.0,4.1,5.0
+2025-02-24,03:04:00,BK385887,Success,C4999,Prime Plus,Jakkur,Sanjay Nagar,6.0,9.0,0,,0,,0,,296.0,25.0,5.0,4.0
+2025-02-15,05:09:00,BK146781,Success,C4090,Mini,Bangalore Palace,Sanjay Nagar,3.0,10.0,0,,0,,0,,382.0,43.0,4.9,3.8
+2025-02-10,09:40:00,BK176483,Cancelled,C2669,Auto,Hebbal,Sree Chowdeshwari Nagar,,,1,Driver asked to cancel,1,The customer was coughing/sick,1,Other Issue,,,,
+2025-03-01,23:19:00,BK548571,Cancelled,C8104,Prime Plus,Kasavanahalli,MG Road,,,1,Wrong Address,1,More than permitted people in there,1,Vehicle Breakdown,,,,
+2025-02-22,03:23:00,BK405467,Cancelled,C6238,Prime Sedan,Banashankari,Whitefield,,,1,Wrong Address,1,Customer related issue,1,Other Issue,,,,
+2025-02-01,18:17:00,BK711315,Success,C7051,Prime Plus,Kengeri,Okalipuram,5.0,9.0,0,,0,,0,,434.0,20.0,4.6,4.4
+2025-02-05,07:20:00,BK292367,Success,C7724,Bike,Kudlu,Doddaballapur,9.0,4.0,0,,0,,0,,362.0,37.0,3.9,4.4
+2025-02-17,12:45:00,BK117079,Success,C5530,eBike,Koramangala,Sanjay Nagar,12.0,5.0,0,,0,,0,,98.0,37.0,4.1,4.0
+2025-02-22,23:09:00,BK841554,Success,C2498,Auto,Jayanagar,Banaswadi,12.0,8.0,0,,0,,0,,395.0,23.0,4.4,3.8
+2025-02-02,11:03:00,BK260460,Cancelled,C9824,Mini,Sahakaranagar,Bangalore University,,,1,AC is not working (Only for 4-wheelers),1,More than permitted people in there,1,Customer Demand,,,,
+2025-02-22,03:58:00,BK754017,Success,C3301,Prime Plus,Sanjay Nagar,Kammanahalli,11.0,11.0,0,,0,,0,,325.0,16.0,4.4,4.6
+2025-02-23,14:18:00,BK671780,Success,C3569,eBike,Kundalahalli,Shivajinagar,7.0,12.0,0,,0,,0,,133.0,17.0,3.9,4.3
+2025-02-08,15:39:00,BK269558,Success,C3822,Prime Plus,RT Nagar,Bangalore East,7.0,6.0,0,,0,,0,,489.0,34.0,5.0,4.2
+2025-02-15,17:11:00,BK333636,Success,C9278,Auto,Yeshwanthpur,Jayanagar,5.0,6.0,0,,0,,0,,432.0,24.0,3.6,4.4
+2025-02-28,08:53:00,BK406774,Success,C2039,Prime SUV,Okalipuram,Ulsoor,5.0,11.0,0,,0,,0,,127.0,46.0,4.8,4.4
+2025-02-05,17:17:00,BK319895,Success,C3893,eBike,Chandapura,Indiranagar,8.0,8.0,0,,0,,0,,479.0,25.0,4.6,4.2
+2025-02-10,14:55:00,BK441189,Success,C1728,Prime Plus,Bangalore East,Bommanahalli,6.0,5.0,0,,0,,0,,409.0,28.0,4.9,3.7
+2025-02-19,19:45:00,BK953091,Cancelled,C7892,Auto,Hebbal,Singasandra,,,1,Driver asked to cancel,1,The customer was coughing/sick,1,Vehicle Breakdown,,,,
+2025-02-07,06:07:00,BK545694,Success,C7910,Prime Plus,Yeshwanthpur,Koramangala,6.0,12.0,0,,0,,0,,280.0,39.0,3.9,5.0
+2025-02-02,02:27:00,BK531611,Success,C6727,eBike,MG Road,Hebbal,11.0,5.0,0,,0,,0,,387.0,24.0,4.0,4.5
+2025-02-17,01:44:00,BK991345,Cancelled,C6519,Prime Plus,Basavanagudi,Bellandur,,,1,Driver is not moving towards pickup location,1,Personal & Car related issues,1,Other Issue,,,,
+2025-02-15,16:30:00,BK536330,Success,C7799,Prime SUV,Banaswadi,Banashankari,8.0,5.0,0,,0,,0,,262.0,47.0,3.6,4.6
+2025-03-02,08:36:00,BK503749,Success,C2354,Prime Sedan,Kundalahalli,Raghavendra Colony,8.0,7.0,0,,0,,0,,62.0,21.0,4.1,4.5
+2025-02-01,15:26:00,BK616948,Cancelled,C2474,Prime SUV,Bengaluru East,Bommanahalli,,,1,Change of plans,1,The customer was coughing/sick,1,Vehicle Breakdown,,,,
+2025-02-10,18:33:00,BK760758,Cancelled,C9523,Prime Sedan,Whitefield,Jakkur,,,1,Driver asked to cancel,1,Customer related issue,1,Vehicle Breakdown,,,,
+2025-03-02,12:11:00,BK844106,Cancelled,C2935,Prime SUV,Kammanahalli,Singasandra,,,1,Driver asked to cancel,1,More than permitted people in there,1,Vehicle Breakdown,,,,
+2025-02-16,12:32:00,BK402752,Success,C5136,eBike,Vijayanagar,Kormangala 1st Block,9.0,3.0,0,,0,,0,,184.0,13.0,3.6,4.5
+2025-02-28,12:05:00,BK405340,Success,C9211,eBike,Koramangala,Sarakki,12.0,3.0,0,,0,,0,,247.0,49.0,4.5,4.9
+2025-02-03,12:57:00,BK685373,Success,C1830,eBike,Indiranagar,Shivajinagar,7.0,11.0,0,,0,,0,,479.0,11.0,4.4,4.9
+2025-03-01,02:23:00,BK806385,Cancelled,C6076,Auto,Vijayanagar,MG Road,,,1,Change of plans,1,More than permitted people in there,1,Other Issue,,,,
+2025-02-17,14:14:00,BK958603,Cancelled,C3044,Mini,Bannergatta,Bangalore East,,,1,Driver is not moving towards pickup location,1,More than permitted people in there,1,Other Issue,,,,
+2025-02-04,14:36:00,BK635948,Success,C2281,Prime Plus,MG Road,Bannergatta,5.0,11.0,0,,0,,0,,491.0,35.0,3.6,4.1
+2025-03-02,21:41:00,BK328020,Cancelled,C3124,Auto,Whitefield,Frazer Town,,,1,Change of plans,1,Personal & Car related issues,1,Other Issue,,,,
+2025-02-16,08:00:00,BK344397,Cancelled,C2373,Prime SUV,Rajagopal Nagar,Rajajinagar,,,1,Driver is not moving towards pickup location,1,The customer was coughing/sick,1,Vehicle Breakdown,,,,
+2025-02-14,07:39:00,BK208526,Success,C6061,Prime SUV,Sanjay Nagar,Vasanth Nagar,6.0,8.0,0,,0,,0,,366.0,40.0,4.8,5.0
+2025-02-11,16:41:00,BK421430,Success,C1933,Prime SUV,Ulsoor,Ramanagara,7.0,10.0,0,,0,,0,,437.0,20.0,4.2,4.5
+2025-02-04,19:55:00,BK102586,Cancelled,C4597,eBike,Kengeri,Yeshwanthpur,,,1,Driver is not moving towards pickup location,1,More than permitted people in there,1,Vehicle Breakdown,,,,
+2025-03-02,21:08:00,BK794869,Success,C8844,Bike,Kammanahalli,Bannergatta,7.0,6.0,0,,0,,0,,476.0,43.0,4.3,4.4
+2025-02-05,19:38:00,BK600260,Success,C3991,Auto,MG Road,Bangalore East,3.0,9.0,0,,0,,0,,431.0,34.0,4.0,3.9
+2025-02-17,10:34:00,BK878173,Cancelled,C3949,Prime Plus,Yeshwanthpur,Ulsoor,,,1,Driver asked to cancel,1,More than permitted people in there,1,Customer Demand,,,,
+2025-02-26,04:15:00,BK225023,Success,C2925,Prime Sedan,Sanjay Nagar,Okalipuram,5.0,3.0,0,,0,,0,,405.0,7.0,4.7,3.9
+2025-02-12,20:06:00,BK554385,Success,C9705,Mini,Okalipuram,Vasanth Nagar,8.0,7.0,0,,0,,0,,54.0,29.0,4.5,4.1
+2025-02-04,02:54:00,BK652975,Success,C4578,Bike,Singasandra,Kasavanahalli,5.0,10.0,0,,0,,0,,325.0,46.0,3.8,4.2
+2025-02-02,02:58:00,BK800799,Success,C6341,Mini,Ramanagara,Indiranagar,3.0,7.0,0,,0,,0,,372.0,32.0,4.7,3.5
+2025-02-25,13:57:00,BK394655,Cancelled,C7044,Prime Plus,Banashankari,Kasavanahalli,,,1,Change of plans,1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-02-21,08:05:00,BK857834,Success,C7799,Auto,Okalipuram,Bangalore Palace,4.0,7.0,0,,0,,0,,293.0,39.0,3.7,3.9
+2025-02-28,04:55:00,BK961478,Cancelled,C1984,Bike,Bannergatta,Chandapura,,,1,Driver asked to cancel,1,The customer was coughing/sick,1,Vehicle Breakdown,,,,
+2025-02-19,09:07:00,BK334906,Cancelled,C8040,Prime Sedan,Rajajinagar,Singasandra,,,1,AC is not working (Only for 4-wheelers),1,More than permitted people in there,1,Vehicle Breakdown,,,,
+2025-02-08,04:45:00,BK729022,Cancelled,C3585,Mini,Chikkajala,Indiranagar,,,1,Wrong Address,1,Customer related issue,1,Other Issue,,,,
+2025-02-10,05:08:00,BK513856,Cancelled,C8677,Prime SUV,CV Raman Nagar,Chandapura,,,1,Wrong Address,1,The customer was coughing/sick,1,Customer Demand,,,,
+2025-02-04,21:36:00,BK655337,Success,C6643,Bike,Sree Chowdeshwari Nagar,Banashankari,6.0,7.0,0,,0,,0,,445.0,29.0,4.9,4.7
+2025-02-15,15:08:00,BK527420,Cancelled,C7277,Prime Sedan,HSR Layout,Kammanahalli,,,1,Wrong Address,1,Customer related issue,1,Customer Demand,,,,
+2025-02-26,06:40:00,BK531554,Cancelled,C9340,Prime SUV,Kengeri,Chikkajala,,,1,Wrong Address,1,Customer related issue,1,Other Issue,,,,
+2025-02-25,15:16:00,BK628776,Cancelled,C7728,Mini,Ramanagara,Doddaballapur,,,1,Wrong Address,1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-02-20,23:43:00,BK378767,Cancelled,C1101,Mini,RT Nagar,Bommanahalli,,,1,Change of plans,1,Customer related issue,1,Customer Demand,,,,
+2025-02-25,20:28:00,BK333870,Success,C8164,Mini,Rajajinagar,Raghavendra Colony,9.0,6.0,0,,0,,0,,375.0,31.0,3.7,3.8
+2025-02-04,12:37:00,BK895454,Success,C5356,Bike,Bengaluru East,Jakkur,4.0,7.0,0,,0,,0,,140.0,21.0,4.5,4.1
+2025-02-25,02:07:00,BK400302,Success,C1589,Auto,Malleshwaram,Frazer Town,5.0,5.0,0,,0,,0,,161.0,48.0,4.1,4.8
+2025-02-20,03:18:00,BK965622,Success,C8473,Mini,Marathahalli,Basavanagudi,9.0,8.0,0,,0,,0,,279.0,40.0,4.1,4.2
+2025-02-20,23:57:00,BK120351,Success,C2579,Prime SUV,Chikkajala,Jayanagar,8.0,5.0,0,,0,,0,,237.0,27.0,4.8,4.1
+2025-02-01,09:54:00,BK799040,Cancelled,C3255,Bike,KR Puram,Kundalahalli,,,1,Driver asked to cancel,1,Customer related issue,1,Other Issue,,,,
+2025-02-05,08:14:00,BK220740,Cancelled,C8526,Prime Plus,Sanjay Nagar,MG Road,,,1,AC is not working (Only for 4-wheelers),1,More than permitted people in there,1,Vehicle Breakdown,,,,
+2025-02-05,04:07:00,BK681081,Success,C4117,Bike,Basavanagudi,Yeshwanthpur,7.0,9.0,0,,0,,0,,408.0,39.0,4.8,3.5
+2025-02-01,06:18:00,BK689966,Success,C6880,Mini,Kudlu,Jayanagar,9.0,9.0,0,,0,,0,,66.0,45.0,3.8,3.9
+2025-02-21,08:50:00,BK497270,Success,C7707,Prime SUV,Yelahanka New Town,Bengaluru East,5.0,4.0,0,,0,,0,,203.0,50.0,4.0,4.7
+2025-02-23,04:03:00,BK618578,Cancelled,C3516,Prime SUV,Sanjay Nagar,Bangalore University,,,1,Driver asked to cancel,1,Personal & Car related issues,1,Customer Demand,,,,
+2025-02-08,13:38:00,BK184832,Cancelled,C3494,Auto,Sree Chowdeshwari Nagar,Kammanahalli,,,1,Driver is not moving towards pickup location,1,Customer related issue,1,Customer Demand,,,,
+2025-02-20,12:42:00,BK824316,Cancelled,C5301,eBike,Kasavanahalli,Shivajinagar,,,1,Wrong Address,1,Personal & Car related issues,1,Customer Demand,,,,
+2025-02-20,03:28:00,BK165995,Success,C3252,Mini,Vijayanagar,Bangalore East,6.0,8.0,0,,0,,0,,93.0,32.0,4.0,4.8
+2025-02-20,18:40:00,BK165196,Cancelled,C3895,Bike,Bannergatta,Banashankari,,,1,Driver is not moving towards pickup location,1,More than permitted people in there,1,Other Issue,,,,
+2025-02-10,10:37:00,BK980197,Cancelled,C5731,Auto,Chikkajala,Banaswadi,,,1,Driver asked to cancel,1,Customer related issue,1,Other Issue,,,,
+2025-02-16,07:16:00,BK444117,Success,C6286,eBike,Hebbal,Banaswadi,12.0,6.0,0,,0,,0,,246.0,15.0,3.7,4.6
+2025-02-03,13:05:00,BK292508,Success,C5372,Auto,Malleshwaram,Sree Chowdeshwari Nagar,10.0,3.0,0,,0,,0,,458.0,36.0,3.7,3.8
+2025-02-23,06:17:00,BK470402,Cancelled,C5597,Auto,Jayanagar,Koramangala,,,1,Driver is not moving towards pickup location,1,More than permitted people in there,1,Other Issue,,,,
+2025-02-24,02:10:00,BK129529,Success,C3492,Mini,Vijayanagar,Bangalore East,3.0,9.0,0,,0,,0,,318.0,30.0,5.0,4.8
+2025-02-18,23:43:00,BK988486,Cancelled,C3577,Prime Sedan,RT Nagar,Jalahalli,,,1,Driver is not moving towards pickup location,1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-02-17,13:16:00,BK628563,Cancelled,C7905,eBike,Sahakaranagar,Yelahanka New Town,,,1,AC is not working (Only for 4-wheelers),1,More than permitted people in there,1,Other Issue,,,,
+2025-02-19,19:08:00,BK671278,Success,C5780,Bike,CV Raman Nagar,Bommanahalli,8.0,3.0,0,,0,,0,,130.0,35.0,4.5,3.6
+2025-02-22,10:01:00,BK733703,Success,C9506,eBike,Ulsoor,Malleshwaram,5.0,10.0,0,,0,,0,,396.0,16.0,4.4,3.9
+2025-02-21,18:47:00,BK158345,Cancelled,C9716,Mini,Singasandra,Shivajinagar,,,1,AC is not working (Only for 4-wheelers),1,More than permitted people in there,1,Other Issue,,,,
+2025-02-19,09:33:00,BK692924,Cancelled,C2388,eBike,Frazer Town,Basavanagudi,,,1,Driver asked to cancel,1,Personal & Car related issues,1,Other Issue,,,,
+2025-02-21,14:42:00,BK414139,Cancelled,C8679,Prime Plus,Koramangala,Bangalore Palace,,,1,AC is not working (Only for 4-wheelers),1,Personal & Car related issues,1,Other Issue,,,,
+2025-03-01,15:08:00,BK976134,Success,C6455,Bike,Banaswadi,Whitefield,10.0,8.0,0,,0,,0,,242.0,39.0,4.5,4.7
+2025-02-17,13:50:00,BK791292,Cancelled,C2830,eBike,HSR Layout,Frazer Town,,,1,Driver is not moving towards pickup location,1,Personal & Car related issues,1,Vehicle Breakdown,,,,
+2025-02-13,19:39:00,BK266090,Success,C5563,Mini,Kammanahalli,RT Nagar,10.0,6.0,0,,0,,0,,133.0,37.0,4.2,5.0
+2025-02-03,16:58:00,BK207443,Success,C6264,Auto,Okalipuram,Bangalore University,10.0,11.0,0,,0,,0,,489.0,37.0,4.9,4.4
+2025-02-08,04:43:00,BK962932,Cancelled,C1723,Prime Plus,Kammanahalli,Kundalahalli,,,1,Wrong Address,1,The customer was coughing/sick,1,Customer Demand,,,,
+2025-03-02,01:26:00,BK177307,Success,C3812,Prime Sedan,Kasavanahalli,Bommanahalli,3.0,10.0,0,,0,,0,,239.0,9.0,3.9,3.7
+2025-02-02,02:55:00,BK830343,Success,C1828,Prime Plus,Koramangala,Jayanagar,11.0,12.0,0,,0,,0,,232.0,48.0,3.9,3.7
+2025-02-19,03:57:00,BK785754,Success,C6712,Auto,Shivajinagar,Bannergatta,6.0,3.0,0,,0,,0,,414.0,33.0,4.1,4.8
+2025-03-01,06:20:00,BK911029,Cancelled,C7275,Auto,Kudlu,Bangalore Palace,,,1,Wrong Address,1,The customer was coughing/sick,1,Other Issue,,,,
+2025-02-22,22:21:00,BK498172,Success,C8674,Prime Plus,Kundalahalli,Ulsoor,5.0,12.0,0,,0,,0,,397.0,30.0,4.5,4.1
+2025-03-01,17:14:00,BK580667,Success,C7814,Prime Sedan,Rajagopal Nagar,Ulsoor,8.0,7.0,0,,0,,0,,79.0,11.0,4.6,4.5
+2025-02-03,18:31:00,BK820089,Success,C6852,Auto,RT Nagar,Bellandur,3.0,3.0,0,,0,,0,,326.0,45.0,3.8,4.2
+2025-03-01,19:05:00,BK898535,Success,C1715,Prime SUV,Okalipuram,Kundalahalli,7.0,6.0,0,,0,,0,,94.0,16.0,4.0,4.4
+2025-02-11,21:35:00,BK957277,Cancelled,C2464,Auto,Bangalore University,Chikkajala,,,1,Driver is not moving towards pickup location,1,The customer was coughing/sick,1,Customer Demand,,,,
+2025-02-09,23:41:00,BK670234,Success,C5342,Prime Sedan,Kudlu,Sarakki,9.0,6.0,0,,0,,0,,257.0,20.0,4.5,4.5
+2025-02-03,14:08:00,BK791914,Success,C1143,Auto,Bellandur,Koramangala,8.0,9.0,0,,0,,0,,183.0,13.0,4.0,3.7
+2025-02-22,12:38:00,BK249785,Cancelled,C4368,Prime Plus,Bellandur,Basavanagudi,,,1,Change of plans,1,Personal & Car related issues,1,Other Issue,,,,
+2025-02-08,12:03:00,BK108795,Success,C5029,Mini,Marathahalli,Kudlu,5.0,7.0,0,,0,,0,,298.0,33.0,4.4,4.7
+2025-02-15,19:26:00,BK989576,Success,C6368,Prime Sedan,Kundalahalli,Kammanahalli,5.0,4.0,0,,0,,0,,151.0,10.0,4.3,3.8
+2025-02-28,01:08:00,BK848032,Success,C5161,eBike,Whitefield,Kudlu,7.0,8.0,0,,0,,0,,119.0,24.0,4.5,4.5
+2025-02-15,17:06:00,BK520646,Cancelled,C5225,eBike,Kundalahalli,MG Road,,,1,Wrong Address,1,More than permitted people in there,1,Vehicle Breakdown,,,,
+2025-02-27,11:01:00,BK856505,Cancelled,C4813,Mini,Basavanagudi,Bommanahalli,,,1,AC is not working (Only for 4-wheelers),1,Customer related issue,1,Vehicle Breakdown,,,,
+2025-02-08,23:51:00,BK687166,Success,C1418,Prime Plus,Yelahanka New Town,Sanjay Nagar,7.0,12.0,0,,0,,0,,427.0,46.0,4.6,4.6
+2025-02-11,11:29:00,BK370339,Cancelled,C5717,eBike,Jayanagar,Bommanahalli,,,1,AC is not working (Only for 4-wheelers),1,The customer was coughing/sick,1,Vehicle Breakdown,,,,
+2025-02-07,18:05:00,BK189379,Cancelled,C6348,Bike,Banaswadi,Bommanahalli,,,1,Change of plans,1,Customer related issue,1,Customer Demand,,,,
+2025-02-10,07:57:00,BK109694,Success,C3040,Prime Sedan,Raghavendra Colony,Rajajinagar,12.0,9.0,0,,0,,0,,138.0,20.0,4.9,4.6
+2025-02-03,05:32:00,BK569913,Success,C9626,Bike,Sarakki,Vasanth Nagar,9.0,11.0,0,,0,,0,,328.0,33.0,4.0,3.7
+2025-03-01,14:39:00,BK439567,Success,C5305,Mini,Bangalore East,Malleshwaram,11.0,8.0,0,,0,,0,,426.0,38.0,3.6,3.6
+2025-02-24,05:29:00,BK285092,Cancelled,C6633,Mini,MG Road,Yelahanka,,,1,Wrong Address,1,Customer related issue,1,Vehicle Breakdown,,,,
+2025-02-14,03:08:00,BK275228,Success,C3481,eBike,Yelahanka New Town,KR Puram,12.0,5.0,0,,0,,0,,202.0,28.0,3.9,4.1
+2025-02-27,02:29:00,BK816719,Success,C2418,Prime Sedan,HSR Layout,Kammanahalli,9.0,10.0,0,,0,,0,,497.0,9.0,3.9,3.6
+2025-02-14,03:21:00,BK325267,Cancelled,C9489,Prime Plus,Bangalore Palace,Frazer Town,,,1,Driver is not moving towards pickup location,1,More than permitted people in there,1,Vehicle Breakdown,,,,
+2025-02-15,15:09:00,BK137681,Cancelled,C8314,Bike,Peenya,Yelahanka New Town,,,1,AC is not working (Only for 4-wheelers),1,The customer was coughing/sick,1,Other Issue,,,,
+2025-02-16,13:15:00,BK279380,Success,C8071,Prime Plus,HSR Layout,Bannergatta,11.0,6.0,0,,0,,0,,134.0,30.0,4.2,4.6
+2025-02-20,08:46:00,BK598200,Success,C8688,Auto,Ramanagara,Yelahanka,12.0,5.0,0,,0,,0,,82.0,8.0,4.5,4.1
+2025-02-03,10:28:00,BK572778,Cancelled,C1283,Prime SUV,Peenya,Indiranagar,,,1,AC is not working (Only for 4-wheelers),1,Customer related issue,1,Other Issue,,,,
+2025-02-05,10:40:00,BK881406,Success,C3619,Prime Plus,Bengaluru East,Malleshwaram,3.0,12.0,0,,0,,0,,290.0,40.0,4.5,4.0
+2025-02-23,09:39:00,BK374605,Success,C5981,Bike,Sahakaranagar,Jalahalli,8.0,10.0,0,,0,,0,,113.0,21.0,4.5,4.8
+2025-02-20,14:10:00,BK667248,Success,C9709,Mini,Bangalore Palace,Malleshwaram,9.0,10.0,0,,0,,0,,430.0,17.0,4.8,4.2
+2025-02-16,10:49:00,BK911698,Cancelled,C5585,Prime SUV,Sree Chowdeshwari Nagar,Singasandra,,,1,Wrong Address,1,Customer related issue,1,Other Issue,,,,
